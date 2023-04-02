@@ -3,5 +3,9 @@
     "lineBreaks": "gfm",
     "additionalFooterText": "By <a href='http://www.devalias.net/'>Glenn '/dev/alias' Grant</a><br />",
     "anchorCharacter": "&para;",
+<<<<<<< HEAD
     "title": "My Shiny New MDwiki"
+=======
+    "title": "Comfy Sky Wiki"
+>>>>>>> 3ba0c80 (update)
 }

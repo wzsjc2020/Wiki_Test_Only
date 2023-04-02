@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Test wiki name
- [Home](index.md)
- [Test](test.md)
-=======
 # Comfy Sky Wiki
  [Home](index.md)
 
@@ -26,4 +21,3 @@
 
 
 
->>>>>>> 3ba0c80 (update)

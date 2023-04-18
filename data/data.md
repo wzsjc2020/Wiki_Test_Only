@@ -373,6 +373,7 @@
 </table>
 
 
+<<<<<<< HEAD
 
 
 
@@ -381,6 +382,108 @@
 
 
 
+=======
+## 鲜活草地
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.13</td>     
+        <td>加入了鲜活草地</td> 
+    </tr> 
+    <tr>    
+        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.14</td>     
+        <td>移除了合成配方</td> 
+    </tr>
+    <tr>     
+        <td>现在鲜活草地由带有#zoetic_grass_can_spread方块标签的方块上右键使用生长素转换而来</td> 
+    </tr> 
+</table>
+
+
+
+<table border=1>
+    <tr>
+        <th align=left colspan=3> 标签 </th>
+    </tr>
+    <tr>
+        <td align=center rowspan=2 width=120; style="vertical-align:middle"> 方块标签 </td>
+        <td> #minecraft:mineable/shovel </td>
+    </tr>
+    <tr>
+        <td> #dirt </td>
+    </tr>
+    <tr>
+        <td align=center rowspan=1 width=120; style="vertical-align:middle"> NBT标签 </td>
+        <td> #lastTickState </td>
+    </tr>
+</table>
+
+
+## 铜调试棒
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.10</td>     
+        <td>加入了铜调试棒</td> 
+    </tr> 
+    <tr>    
+        <td>17.0.13</td>     
+        <td>现在铜调试棒可以在创造物品栏中获取了</td> 
+    </tr> 
+</table>
+
+
+## 碎煤
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.1</td>     
+        <td>加入了碎煤</td> 
+    </tr> 
+    <tr>    
+        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.4</td>
+        <td>碎煤不再合成煤炭，修改为合成木炭（避免和skyblockaddition的特性：煤炭块可以压缩成钻石冲突）</td> 
+    </tr> 
+</table>
+
+
+## 花种子
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=4 width=120; style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.1</td>     
+        <td>加入了花种子（treasurehuntlib:flower_seeds）</td> 
+    </tr> 
+    <tr>    
+        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.15</td>
+        <td>移除了花种子（treasurehuntlib:flower_seeds）</td> 
+    </tr> 
+    <tr>    
+        <td>加入了花种子（comfysky:flower_seeds）</td> 
+    </tr> 
+    </tr> 
+    <tr>    
+        <td>17.1.0</td> 
+        <td>修复了花苗破坏后不掉落花种子的BUG</td> 
+    </tr> 
+</table>
+>>>>>>> 3b1632b (test 1)
 
 
 

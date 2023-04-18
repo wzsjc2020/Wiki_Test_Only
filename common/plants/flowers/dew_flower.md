@@ -20,15 +20,37 @@
 
 ## 用途
 
+### 露水收集
+
 1.露水采集需要天空光需要大于0
 
-2.使用水瓶或露水瓶右键露水花可以采集露水，详细数据见**露水花-数值表-露水收集时间表**
+2.使用水瓶或露水瓶右键露水花可以采集露水，详细数据见**露水花-用途-露水收集时间表**
 
 3.雨天可以额外获得一滴露水
 
-4.露水花可以制作谜之炖菜，食用后产生速度效果，时长4秒
+​     
 
-5.可以放置在花盆中
+### 露水收集时间表
+
+<img src="../../../resources/image/dew_amount.png" style="zoom:50%;" />
+
+| 游戏日时间（Time of Day） | 可获取露水量（晴天） | 可获取露水量（雨天） |
+| ------------------------- | -------------------- | -------------------- |
+| 0-3000                    | 2                    | 3                    |
+| 3000-6000                 | 1                    | 2                    |
+| 6000-24000                | 0                    | 0                    |
+
+​     
+
+### 食用
+
+露水花可以制作谜之炖菜，食用后产生速度效果，时长4秒
+
+​     
+
+### 盆栽
+
+可以放置在花盆中
 
 ​     
 
@@ -50,18 +72,6 @@
 | @debugable       | true | boolean  |
 
 <table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #minecraft:small_flowers </td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> 物品标签 </td> <td> #minecraft:small_flowers </td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> NBT标签 </td> <td> lastInteractTime </td> </tr> </table>
-
-
-
-### 露水收集时间表
-
-<img src="../../../resources/image/dew_amount.png" style="zoom:50%;" />
-
-| 游戏日时间（Time of Day） | 可获取露水量（晴天） | 可获取露水量（雨天） |
-| ------------------------- | -------------------- | -------------------- |
-| 0-3000                    | 2                    | 3                    |
-| 3000-6000                 | 1                    | 2                    |
-| 6000-24000                | 0                    | 0                    |
 
 ​     
 

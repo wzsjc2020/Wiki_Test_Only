@@ -2,7 +2,7 @@
 
 ## 求生者挖掘铲
 
-<div align=center><img src=../../resources/icon/survivor_digging_shovel-128px.png></div>
+<div align=center><img src=../../../resources/icon/survivor_digging_shovel-128px.png></div>
 
 ​     
 
@@ -14,9 +14,9 @@
 
 ​     
 
-## 水铲
+## 水元素挖掘铲
 
-<div align=center><img src=../../resources/icon/aquatic_digging_shovel-128px.png></div>
+<div align=center><img src=../../../resources/icon/aquatic_digging_shovel-128px.png></div>
 
 ​     
 
@@ -30,7 +30,7 @@
 
 ## 工程师挖掘铲
 
-<div align=center><img src=../../resources/icon/engineer_digging_shovel-128px.png></div>
+<div align=center><img src=../../../resources/icon/engineer_digging_shovel-128px.png></div>
 
 ​     
 
@@ -44,7 +44,7 @@
 
 ## 皇家挖掘铲
 
-<div align=center><img src=../../resources/icon/royal_digging_shovel-128px.png></div>
+<div align=center><img src=../../../resources/icon/royal_digging_shovel-128px.png></div>
 
 ​     
 
@@ -56,9 +56,9 @@
 
 ​     
 
-## 大师铲
+## 大师挖掘铲
 
-<div align=center><img src=../../resources/icon/master_digging_shovel-128px.png></div>
+<div align=center><img src=../../../resources/icon/master_digging_shovel-128px.png></div>
 
 ​     
 
@@ -84,11 +84,41 @@
 
 ## 交互
 
-1.左键挖掘方块，
+### 挖掘铲作用范围
 
-可挖掘方块详细数据查看**挖掘铲-数值表-可挖掘方块**
+| 挖掘铲       | 作用范围 |
+| ------------ | -------- |
+| 求生者挖掘铲 | 1x1      |
+| 水元素挖掘铲 | 2x2      |
+| 工程师挖掘铲 | 3x3      |
+| 皇家挖掘铲   | 4x4      |
+| 大师挖掘铲   | 5x5      |
 
-挖掘铲详细数据查看**挖掘铲-数值表-挖掘铲属性**
+​     
+
+### 挖掘铲修复材料
+
+| 挖掘铲       | 修复材料   |
+| ------------ | ---------- |
+| 求生者挖掘铲 | 木板*      |
+| 水元素挖掘铲 | 海晶沙砾   |
+| 工程师挖掘铲 | 铜锭       |
+| 皇家挖掘铲   | 下届合金锭 |
+| 大师挖掘铲   | 下届之星   |
+
+木板*：任意物品标签为minecraft:planks的物品
+
+​     
+
+### 可挖掘方块
+
+| 可挖掘方块                      | 掉落物                                                       | 挖掘后方块                                                 |
+| ------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
+| 雪块（minecraft:snow_block）    | 5%![](../../../resources/icon/crushed_stone-32px.png)20%![](../../../resources/icon/snowball-32px.png)1.56%杀手兔 | ![](../../../resources/icon/shoveled_snow_block-32px.png)  |
+| 泥巴（minecraft:mud）           | 5%![](../../../resources/icon/clay_ball-32px.png)5%![](../../../resources/icon/stick-32px.png) | ![](../../../resources/icon/shoveled_mud-32px.png)         |
+| 沙子（minecraft:sand）          | 5%![](../../../resources/icon/crushed_copper_ore-32px.png)5%![](../../../resources/icon/crushed_sand-32px.png) | ![](../../../resources/icon/shoveled_sand-32px.png)        |
+| 红沙（minecraft:red_sand）      | 5%![](../../../resources/icon/crushed_gold_ore-32px.png)5%![](../../../resources/icon/crushed_sand-32px.png) | ![](../../../resources/icon/shoveled_red_sand-32px.png)    |
+| 草方块（minecraft:grass_block） | 5%![](../../../resources/icon/crushed_iron_ore-32px.png)5%![](../../../resources/icon/crushed_stone-32px.png)5%![](../../../resources/icon/crushed_coal-32px.png) | ![](../../../resources/icon/shoveled_grass_block-32px.png) |
 
 ​     
 
@@ -96,37 +126,12 @@
 
 | 常量           | 数据 | 数据类型 |
 | :------------- | ---- | -------- |
-| @RANGE         | ?    | int      |
 | @MINIMUM_RANGE | 1    | int      |
 | @MAXIMUM_RANGE | 5    | int      |
 
 <table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> 物品标签 </td> <td> #treasurehuntlib:digging_shovel </td> </tr> </table>
 
-​       
-
-### 挖掘铲属性
-
-|              | 挖掘范围 | 挖掘等级  | 修复材料   |
-| ------------ | -------- | --------- | ---------- |
-| 求生者挖掘铲 | 1x1      | WOOD      | #planks    |
-| 水铲         | 2x2      | STONE     | 海晶沙砾   |
-| 工程师挖掘铲 | 3x3      | IRON      | 铜锭       |
-| 皇家挖掘铲   | 4x4      | DIAMOND   | 下届合金锭 |
-| 皇家挖掘铲   | 5x5      | NETHERITE | 下届之星   |
-
-​     
-
-### 可挖掘方块
-
-| 可挖掘方块 | id                    | 添加版本 | 掉落物                                                       | 绑定方块                                                |
-| ---------- | --------------------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| 雪块       | minecraft:snow_block  | v17.0.15 | 5%![](../../resources/icon/crushed_stone-32px.png)20%![](../../resources/icon/snowball-32px.png)1.56%杀手兔 | ![](../../resources/icon/shoveled_snow_block-32px.png)  |
-| 泥巴       | minecraft:mud         | v17.0.15 | 5%![](../../resources/icon/clay_ball-32px.png)5%![](../../resources/icon/stick-32px.png) | ![](../../resources/icon/shoveled_mud-32px.png)         |
-| 沙子       | minecraft:sand        | v17.0.13 | 5%![](../../resources/icon/crushed_copper_ore-32px.png)5%![](../../resources/icon/crushed_sand-32px.png) | ![](../../resources/icon/shoveled_sand-32px.png)        |
-| 红沙       | minecraft:red_sand    | v17.0.6  | 5%![](../../resources/icon/crushed_gold_ore-32px.png)5%![](../../resources/icon/crushed_sand-32px.png) | ![](../../resources/icon/shoveled_red_sand-32px.png)    |
-| 草方块     | minecraft:grass_block | v17.0.1  | 5%![](../../resources/icon/crushed_iron_ore-32px.png)5%![](../../resources/icon/crushed_stone-32px.png)5%![](../../resources/icon/crushed_coal-32px.png) | ![](../../resources/icon/shoveled_grass_block-32px.png) |
-
-​     
+​            
 
 ## 历史
 

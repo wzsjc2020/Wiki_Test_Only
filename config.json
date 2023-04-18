@@ -1,7 +1,7 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "By <a href='http://www.devalias.net/'>Glenn '/dev/alias' Grant</a><br />",
+    "additionalFooterText": "<p>a wzssoft 2023 project</p>",
     "anchorCharacter": "&para;",
     "title": "Comfy Sky Wiki"
 }

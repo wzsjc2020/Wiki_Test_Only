@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-# Comfy Sky Wiki
- [Home](index.md)
-
-[Flowers]()
-
-* # Test 111
-
-*  [Dew Flower](common/flowers/dew_flower.md)
-
-*  [Cinderbloom](common/flowers/cinderbloom.md)
-
-  ---
-
-  
-
-[Digging Shovel](common/digging_shovels/digging_shovel.md)
-
-
-
-
-
-
-
-=======
 # 舒适空岛 WIKI
 [主页](index.md)
 
@@ -54,4 +29,3 @@
 
 
 
->>>>>>> 3b1632b (test 1)

@@ -373,16 +373,6 @@
 </table>
 
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-=======
 ## 鲜活草地
 
 <table border=1 style="width:100% ;height:100%">
@@ -483,7 +473,6 @@
         <td>修复了花苗破坏后不掉落花种子的BUG</td> 
     </tr> 
 </table>
->>>>>>> 3b1632b (test 1)
 
 
 

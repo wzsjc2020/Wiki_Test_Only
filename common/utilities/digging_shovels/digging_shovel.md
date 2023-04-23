@@ -72,7 +72,13 @@
 
 ## 获取
 
+### 17.1.1及以下版本
+
 工作台合成
+
+### 17.1.2+
+
+除求生者挖掘铲需要使用工作台合成外，其余等级的挖掘铲需要在锻造台中用对应的锻造升级模板升级
 
 ​     
 
@@ -135,7 +141,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=4>Java版</th> </tr> <tr> <td align=center rowspan=11 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了宝藏附魔的木铲</td> </tr> <tr> <td>17.0.2</td> <td>现在宝藏附魔的木铲会生成在李芒果空岛初始岛屿的木桶中</td> </tr>  <tr> <td rowspan=2 style="vertical-align:middle">17.0.11</td> <td>移除了宝藏附魔的木铲</td> </tr> <tr> <td>加入了求生者挖掘铲，水铲</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.12</td> <td>修改了求生者挖掘铲，水铲的合成配方和材质</td> </tr> <tr> <td>修改了水铲的挖掘范围由3x3改为2x2</td> </tr> <tr> <td>加入了工程师挖掘铲，皇家挖掘铲，大师铲</td> </tr> <tr> <td width=120;>17.0.13</td> <td>修复了水铲，工程师挖掘铲，皇家挖掘铲，大师铲错误修复材料的BUG</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.15</td> <td>修复了挖掘铲挖掘非可挖掘方块不消耗耐久的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边无法挖掘方块的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=4>Java版</th> </tr> <tr> <td align=center rowspan=11 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了宝藏附魔的木铲</td> </tr> <tr> <td>17.0.2</td> <td>现在宝藏附魔的木铲会生成在李芒果空岛初始岛屿的木桶中</td> </tr> <tr> <td rowspan=2 style="vertical-align:middle">17.0.11</td> <td>移除了宝藏附魔的木铲</td> </tr> <tr> <td>加入了求生者挖掘铲，水铲</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.12</td> <td>修改了求生者挖掘铲，水铲的合成配方和材质</td> </tr> <tr> <td>修改了水铲的挖掘范围由3x3改为2x2</td> </tr> <tr> <td>加入了工程师挖掘铲，黄家挖掘铲，大师铲</td> </tr> <tr> <td width=120;>17.0.13</td> <td>修复了水铲，工程师挖掘铲，黄金铲，大师铲错误修复的材料的BUG</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.15</td> <td>修复了挖掘铲挖掘非可挖掘方块（non-shovelable block）不消耗耐久的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边无法挖掘方块的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td> <td>现在手持挖掘铲在玩家视线指向非宝藏方块时，不再渲染方块轮廓</td> </tr> <tr> <td>修复了手持挖掘铲时渲染错误的视图</td> </tr> </table>
 
 ​     
 

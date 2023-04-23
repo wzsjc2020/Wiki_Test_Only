@@ -67,7 +67,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.6</td> <td>加入了浮木</td> </tr> <tr> <td align=left rowspan=3 width=120; style="vertical-align:middle">17.0.7</td> <td>加入了浮竹(浮木变种)</td> </tr> <tr> <td>修复了浮木可以虚空放置的BUG</td> </tr> <tr> <td>现在浮木可以朝东南，西南，东北，西北方向放置</td> </tr> <tr> <td >17.0.13</td> <td>修改了浮木，浮竹的贴图</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=6 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.6</td> <td>加入了浮木</td> </tr> <tr> <td align=left rowspan=3 width=120; style="vertical-align:middle">17.0.7</td> <td>加入了浮竹(浮木变种)</td> </tr> <tr> <td>修复了浮木可以虚空放置的BUG</td> </tr> <tr> <td>现在浮木可以朝东南，西南，东北，西北方向放置</td> </tr> <tr> <td >17.0.13</td> <td>修改了浮木，浮竹的贴图</td> </tr> </tr> <tr> <td >17.1.1</td> <td>修复了浮木计算放置方向时产生负数导致游戏崩溃的高危BUG</td> </tr> </table>
 
 ​     
 

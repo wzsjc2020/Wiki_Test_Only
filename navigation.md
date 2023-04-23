@@ -8,7 +8,7 @@
 
 [更新日志](common/updates/root.md)
 
-
+[项目贡献](common/credits/root.md)
 
 
 

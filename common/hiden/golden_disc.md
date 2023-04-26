@@ -48,8 +48,9 @@
 在17.0.13版本中金唱片可以播放一段100秒的音频，这段音频截取自NASA（美国国家航天局）1977年发射的旅行者1号携带的金唱片中**地球之声**的片段。
 
 <audio id="audio" controls="" preload="none">
-      <source id="ogg" src="../../resources/sound/sound_of_earth_01.ogg">
+      <source id="mp3" src="../../resources/sound/sound_of_earth_01.mp3">
 </audio>
+
 
 ​     
 

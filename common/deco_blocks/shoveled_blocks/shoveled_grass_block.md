@@ -12,6 +12,14 @@
 
 ​          
 
+## 生成
+
+### 被动生成
+
+使用任意等级的挖掘铲挖掘草方块生成挖掘过的草方块
+
+​         
+
 ## 获取
 
 生存模式无法获取
@@ -19,6 +27,8 @@
 ​         
 
 ## 用途
+
+### 农田
 
 具有#treasurehuntlib:farmland标签，可以在上面种植作物
 
@@ -36,12 +46,13 @@
 
 ## 数值表
 
-| 常量          | 数据                                 | 数据类型   |
-| :------------ | ------------------------------------ | ---------- |
-| @LOOTS        | shoveled_blocks/shoveled_grass_block | identifier |
-| @MAX_MOISTURE | 5                                    | int        |
+| 常量                               | 数据                                                         | 数据类型   |
+| :--------------------------------- | ------------------------------------------------------------ | ---------- |
+| @LOOTS                             | shoveled_blocks/shoveled_grass_block                         | identifier |
+| @LOOTS_FROM_SUSPICIOUS_GRASS_BLOCK | shoveled_blocks/shoveled_grass_block_from_suspicious_grass_block | identifier |
+| @MAX_MOISTURE                      | 5                                                            | int        |
 
-<table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #minecraft:mineable/shovel </td> </tr> <tr> <td> #treasurehuntlib:farmland </td> </tr> </table>
+<table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #minecraft:mineable/shovel </td> </tr> <tr> <td> #treasurehuntlib:farmland </td> </tr> <tr> <td> #minecraft:dirt </td> </tr> </table>
 
 ​          
 

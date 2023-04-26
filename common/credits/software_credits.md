@@ -52,17 +52,7 @@ Note:制作模组所使用的所有软件/程序
 | @链接 |                                              |
 | @描述 | 简单程序用于计算RGB Integer，使用ChatGPT生成 |
 
-​     
-
-## Animated GIF Maker
-
-| @作者 | Imgflip LLC                               |
-| ----- | ----------------------------------------- |
-| @时间 | 2023                                      |
-| @链接 | https://imgflip.com/gif-maker?from=images |
-| @描述 | 生成gif动态图                             |
-
-​     
+​          
 
 ## Animated GIF Maker
 

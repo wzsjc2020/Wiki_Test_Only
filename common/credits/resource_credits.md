@@ -84,3 +84,13 @@ Note:制作模组所使用的所有美术素材
 
 ​     
 
+## 青瓷瓶
+
+| @作者 | ultramarine mod creators                          |
+| ----- | ------------------------------------------------- |
+| @时间 | 2023                                              |
+| @链接 | https://github.com/LocusAzzurro/Ultramarine       |
+| @描述 | 使用了ultramarine中青瓷瓶材质和模型，并进行了修改 |
+
+​     
+

@@ -1,4 +1,6 @@
-# 机械放置器1号碎片
+# 机械放置器碎片
+
+## 机械放置器1号碎片
 
 <div align=center><img src=../../../resources/icon/mechanical_placer_piece_1-128px.png></div>
 
@@ -12,7 +14,7 @@
 
 ​     
 
-# 机械放置器2号碎片
+## 机械放置器2号碎片
 
 <div align=center><img src=../../../resources/icon/mechanical_placer_piece_2-128px.png></div>
 
@@ -26,7 +28,7 @@
 
 ​     
 
-# 机械放置器3号碎片
+## 机械放置器3号碎片
 
 <div align=center><img src=../../../resources/icon/mechanical_placer_piece_3-128px.png></div>
 

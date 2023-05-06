@@ -6,6 +6,8 @@
 
 [下载](download.md)
 
+[声明](common/declarations/root.md)
+
 [更新日志](common/updates/root.md)
 
 [项目贡献](common/credits/root.md)

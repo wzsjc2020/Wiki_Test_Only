@@ -6,7 +6,7 @@
 
 [下载](download.md)
 
-[声明](common/declarations/root.md)
+[关于模组](common/about/root.md)
 
 [更新日志](common/updates/root.md)
 

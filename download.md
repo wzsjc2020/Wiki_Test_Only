@@ -8,7 +8,7 @@
 
 ## 前置
 
-[Treasure Hunt Lib - CurseForge](https://www.curseforge.com/minecraft/mc-mods/treasure-hunt-lib)
+[Treasure Hunt Lib - CurseForge（舒适空岛v17.1.5及之后版本无需安装）](https://www.curseforge.com/minecraft/mc-mods/treasure-hunt-lib)
 
 [Fabric API - CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
@@ -30,7 +30,7 @@
 
 [Mod Menu 模组菜单 - CurseForge](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 
-[MiniHUD 简单F3 - CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud)
+[MiniHUD - CurseForge](https://www.curseforge.com/minecraft/mc-mods/minihud)
 
 [Item Scroller 滚轮增强 - CurseForge](https://www.curseforge.com/minecraft/mc-mods/item-scroller)
 
@@ -56,7 +56,13 @@
 
 ### 1.19.4
 
-未开发完成
+🚧暂无
+
+
+
+### 1.20.1
+
+[最新的李芒果空岛整合包1.20.1_哔哩哔哩](https://www.bilibili.com/video/BV1kh4y157so/?spm_id_from=333.337.search-card.all.click&vd_source=3d47f7f15977e64edde817f5a2a56593)
 
 
 

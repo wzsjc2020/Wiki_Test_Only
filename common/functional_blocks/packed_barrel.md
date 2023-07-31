@@ -44,7 +44,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.4</td> <td>加入了打包过的木桶</td> </tr> <tr> <td width=120;>17.0.5</td> <td>修复了木桶带nbt标签时tooltip不显示前4个物品的BUG</td> </tr> </tr> <tr> <td width=120;>17.0.6</td> <td>现在木桶中带有barrel_packing_black_list标签的物品时无法打包</td> </tr> </tr> <tr> <td width=120;>17.0.7</td> <td>修复了打包后带有barrel_packing_black_list标签的物品可以通过漏斗传入的BUG</td> </tr> </tr> <tr> <td width=120;>17.1.0</td> <td>修复了状态发生改变时未删除BlockEnitity从而导致物品复制的高危BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.4</td> <td>加入了打包过的木桶</td> </tr> <tr> <td width=120;>17.0.5</td> <td>修复了木桶带nbt标签时tooltip不显示前4个物品的BUG</td> </tr> </tr> <tr> <td width=120;>17.0.7</td> <td>现在木桶中带有barrel_packing_black_list标签的物品时无法打包</td> </tr> </tr> <tr> <td width=120;>17.0.7</td> <td>修复了打包后带有barrel_packing_black_list标签的物品可以通过漏斗传入的BUG</td> </tr> </tr> <tr> <td width=120;>17.1.0</td> <td>修复了状态发生改变时未删除BlockEnitity从而导致物品复制的高危BUG</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.5</td> <td>修复了打包过的木桶方块可以放入浅影盒的BUG</td> </tr> <tr> <td>修复了打包过的木桶最大堆叠数为64的BUG</td> </tr> </table>
 
 ​     
 

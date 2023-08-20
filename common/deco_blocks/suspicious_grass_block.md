@@ -47,7 +47,7 @@
 
 ## 数值表     
 
-<table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #comfysky:zoetic_grass_can_spread </td> </tr> <tr> <td> #minecraft:dirt </td> </tr> <tr> <td> #minecraft:mineable/shovel </td> </tr> <tr> <td> #treasurehuntlib:digging_shovel </td> </tr> </table>
+<table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #comfysky:zoetic_grass_can_spread </td> </tr> <tr> <td> #minecraft:dirt </td> </tr> <tr> <td> #minecraft:mineable/shovel </td> </tr> <tr> <td> #comfysky:digging_shovel </td> </tr> </table>
 
 ​     
 

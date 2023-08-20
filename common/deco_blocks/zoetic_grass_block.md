@@ -30,7 +30,7 @@
 
 1.当游戏日（time of day）0~12000时，每20tick(1秒)进行一次康威生命游戏循环
 
-2.鲜活草地会向四周带有#zoetic_grass_can_spread标签的方块进行传播
+2.鲜活草地会向四周带有#comfysky:zoetic_grass_can_spread标签的方块进行传播
 
 3.是方块实体，无法被活塞推动
 

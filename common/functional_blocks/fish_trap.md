@@ -59,7 +59,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了捕鱼陷阱</td> </tr> <tr> <td>17.0.14</td> <td>现在捕鱼陷阱可以捕获玩家遗失物品</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.4</td> <td>现在捕鱼陷阱添加了captured 方块状态</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了捕鱼陷阱</td> </tr> <tr> <td>17.0.14</td> <td>现在捕鱼陷阱可以捕获玩家遗失物品</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.4</td> <td>现在捕鱼陷阱添加了captured 方块状态</td> </tr> <tr> <td width=120;>17.1.6</td> <td>修复了捕鱼陷阱异常的server到client的同步问题</td> </tr> </table>
 
 ​     
 

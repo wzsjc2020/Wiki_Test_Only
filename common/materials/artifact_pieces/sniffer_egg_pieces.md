@@ -36,7 +36,11 @@
 
 ## 用途
 
-### 1.19.4-17.1.4
+### 1.20.1-17.1.7+
+
+在组装台合成嗅探兽的蛋
+
+### 1.19.4-17.1.4~1.20
 
 可以在组装台上组装嗅探兽的蛋，但是无法成功组装，因为当前版本嗅探兽的蛋仅存在于数据包
 
@@ -58,7 +62,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.4</td> <td>加入了嗅探兽的蛋1号碎片</td> </tr> <tr> <td>加入了嗅探兽的蛋2号碎片</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.4</td> <td>加入了嗅探兽的蛋1号碎片</td> </tr> <tr> <td>加入了嗅探兽的蛋2号碎片</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.7</td> <td>添加了嗅探兽的蛋在组装台的合成配方</td> </tr> </table>
 
 ​     
 

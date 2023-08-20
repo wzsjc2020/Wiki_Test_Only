@@ -30,7 +30,7 @@
 
 <img src="../../resources/screenshot/assembly_station_1.png" style="zoom:25%;" />
 
-组装台是一个多方块结构，它底座由9个组装台拼接而成。当组装物品时，也需要确保3X3平台上方这几个方块是空气，否则多方块结构将不生效。
+组装台是一个多方块结构，它底座由9个组装台拼接而成。
 
 ​     
 
@@ -38,9 +38,6 @@
 
 这边以青瓷瓶为例，我们需要准备组装青瓷瓶的3个碎片。然后任意使用其中的一个碎片点击底部3X3平台中心的那个方块，之后我们就可以看到组装台上出现了对应的方块模型（碎片放置顺序不分先后），将其余碎片组装完成后，组装的物品会以掉落物的形式掉落，同时你会听到组装成功的提示音。
 
-<audio id="audio" controls="" preload="none">
-      <source id="mp3" src="../../resources/sound/assembly_station_success.mp3">
-</audio>
 <audio controls> <source src="../../resources/sound/assembly_station_success.mp3" type="audio/mpeg"> </audio>
 
 ​     
@@ -57,7 +54,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.3</td> <td>加入了加入了组装台</td> </tr> <tr> <td>17.1.4</td> <td>修复了组装台侧边放置时没有放置音效的BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.3</td> <td>加入了加入了组装台</td> </tr> <tr> <td>17.1.4</td> <td>修复了组装台侧边放置时没有放置音效的BUG</td> </tr> <tr> <td>17.1.7</td> <td>现在组装台不再使用模板方块来进行合成，现在的组装台配方可以用AssemblyRecipe来创建</td> </tr> </table>
 
 ​     
 

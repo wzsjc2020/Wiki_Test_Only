@@ -112,14 +112,19 @@
         <td>修复了状态发生改变时未删除BlockEnitity从而导致物品复制的高危BUG</td> 
     </tr> 
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.4</td>
         <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.5</td>
         <td>修复了打包过的木桶方块可以放入浅影盒的BUG</td> 
     </tr> 
     <tr>     
         <td>修复了打包过的木桶最大堆叠数为64的BUG</td> 
     </tr> 
+    <tr>    
+        <td align=left rowspan=1 width=120; style="vertical-align:middle">17.1.6</td>
+        <td>再次修复了打包过的木桶可以放入浅影盒的BUG</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -630,11 +635,16 @@
         <td>现在捕鱼陷阱可以捕获玩家遗失物品</td> 
     </tr> 
     <tr>    
-        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
         <td width=120;>17.1.4</td>     
         <td>现在捕鱼陷阱添加了captured 方块状态</td> 
     </tr> 
+        <tr>    
+        <td width=120;>17.1.6</td>     
+        <td>修复了捕鱼陷阱异常的server到client的同步问题</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -674,7 +684,7 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.4</td>
         <td width=120;>17.1.3</td>     
         <td>加入了加入了组装台</td> 
     </tr> 
@@ -682,7 +692,12 @@
         <td>17.1.4</td>     
         <td>修复了组装台侧边放置时没有放置音效的BUG</td> 
     </tr> 
+        <tr>    
+        <td>17.1.7</td>     
+        <td>现在组装台不再使用模板方块来进行合成，现在的组装台配方可以用AssemblyRecipe来创建</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -708,6 +723,31 @@
         <td> #treasurehuntlib:digging_shovel </td>
     </tr>
 </table>
+
+
+
+
+## 嗅探兽的蛋碎片
+
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th>
+    </tr>
+    <tr> 
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> 
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.4</td>
+        <td>加入了嗅探兽的蛋1号碎片</td>
+    </tr>
+    <tr>
+        <td>加入了嗅探兽的蛋2号碎片</td>
+    </tr>
+        <tr> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.7</td>
+        <td>添加了嗅探兽的蛋在组装台的合成配方</td>
+    </tr>
+</table>
+
+
+
 
 
 

@@ -20,7 +20,7 @@
 
 ## 用途
 
-具有#treasurehuntlib:farmland标签，可以在上面种植作物
+具有#comfysky:farmland标签，可以在上面种植作物
 
 ​     
 

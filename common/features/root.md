@@ -16,6 +16,8 @@
 
 ### [流浪商人成群结队生成](wandering_trader_spawn.md)
 
+### [用木棍从简易篝火中取出火把](take_out_torches_from_simple_bonfire.md)
+
 
 
 

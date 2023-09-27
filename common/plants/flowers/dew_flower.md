@@ -58,7 +58,7 @@
 
 1.使用空瓶对着露水花右键转换为露水瓶
 
-2.可以放置在方块标签为minecraft:dirt或treasurehuntlib:farmland的方块上
+2.可以放置在方块标签为minecraft:dirt或comfysky:farmland的方块上
 
 3.使用铜调试棒右键获取当前时间可获取露水的量
 

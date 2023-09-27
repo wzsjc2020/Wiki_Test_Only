@@ -34,7 +34,7 @@
 
 ## 交互
 
-2.可以放置在方块标签为minecraft:dirt或treasurehuntlib:farmland的方块上
+2.可以放置在方块标签为minecraft:dirt或comfysky:farmland的方块上
 
 2.放置在鲜活草地上以触发特殊计算，详见**特性-康威生命游戏**
 
@@ -54,7 +54,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了生命花</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.14</td> <td>移除了生命花多个模型</td> </tr> <tr> <td>现在生命花具有samall_flower的标签；现在生命花可以分解成粉色染料；加入了生命花盆栽</td> </tr> <tr> <td>17.0.15</td> <td>现在生命花可以制作谜之炖菜，食用后产生4秒生命恢复</td> </tr> <tr> <td>17.1.1</td> <td>现在玩家对着鲜活草地使用骨粉随机生成生命花</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了生命花</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.14</td> <td>移除了生命花多个模型</td> </tr> <tr> <td>现在生命花具有samall_flower的标签；现在生命花可以分解成粉色染料；加入了生命花盆栽</td> </tr> <tr> <td>17.0.15</td> <td>现在生命花可以制作谜之炖菜，食用后产生4秒生命恢复</td> </tr> <tr> <td>17.1.1</td> <td>现在玩家对着鲜活草地使用骨粉随机生成生命花</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td align=left rowspan=1 width=120; style="vertical-align:middle">17.1.8</td> <td>现在生命花不再继承NoOffSetFlowerBlock.class, 生命花可以和其他花朵一样具有XZ轴偏移了</td> </tr> </table>
 
 ​     
 

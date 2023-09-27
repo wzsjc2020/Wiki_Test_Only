@@ -128,6 +128,18 @@
 
 ​     
 
+### 挖掘铲挖掘速度
+
+| 挖掘铲       | 挖掘速度 |
+| ------------ | -------- |
+| 求生者挖掘铲 | 6.0F     |
+| 水元素挖掘铲 | 8.0F     |
+| 工程师挖掘铲 | 10.F     |
+| 皇家挖掘铲   | 12.0F    |
+| 大师挖掘铲   | 12.0F    |
+
+​     
+
 ## 数值表
 
 | 常量           | 数据 | 数据类型 |
@@ -141,7 +153,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=4>Java版</th> </tr> <tr> <td align=center rowspan=11 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了宝藏附魔的木铲</td> </tr> <tr> <td>17.0.2</td> <td>现在宝藏附魔的木铲会生成在李芒果空岛初始岛屿的木桶中</td> </tr> <tr> <td rowspan=2 style="vertical-align:middle">17.0.11</td> <td>移除了宝藏附魔的木铲</td> </tr> <tr> <td>加入了求生者挖掘铲，水铲</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.12</td> <td>修改了求生者挖掘铲，水铲的合成配方和材质</td> </tr> <tr> <td>修改了水铲的挖掘范围由3x3改为2x2</td> </tr> <tr> <td>加入了工程师挖掘铲，黄家挖掘铲，大师铲</td> </tr> <tr> <td width=120;>17.0.13</td> <td>修复了水铲，工程师挖掘铲，黄金铲，大师铲错误修复的材料的BUG</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.15</td> <td>修复了挖掘铲挖掘非可挖掘方块（non-shovelable block）不消耗耐久的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边无法挖掘方块的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td> <td>现在手持挖掘铲在玩家视线指向非宝藏方块时，不再渲染方块轮廓</td> </tr> <tr> <td>修复了手持挖掘铲时渲染错误的视图</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=4>Java版</th> </tr> <tr> <td align=center rowspan=11 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了宝藏附魔的木铲</td> </tr> <tr> <td>17.0.2</td> <td>现在宝藏附魔的木铲会生成在李芒果空岛初始岛屿的木桶中</td> </tr> <tr> <td rowspan=2 style="vertical-align:middle">17.0.11</td> <td>移除了宝藏附魔的木铲</td> </tr> <tr> <td>加入了求生者挖掘铲，水铲</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.12</td> <td>修改了求生者挖掘铲，水铲的合成配方和材质</td> </tr> <tr> <td>修改了水铲的挖掘范围由3x3改为2x2</td> </tr> <tr> <td>加入了工程师挖掘铲，黄家挖掘铲，大师铲</td> </tr> <tr> <td width=120;>17.0.13</td> <td>修复了水铲，工程师挖掘铲，黄金铲，大师铲错误修复的材料的BUG</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.0.15</td> <td>修复了挖掘铲挖掘非可挖掘方块（non-shovelable block）不消耗耐久的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边无法挖掘方块的BUG</td> </tr> <tr> <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td> <td>现在手持挖掘铲在玩家视线指向非宝藏方块时，不再渲染方块轮廓</td> </tr> <tr> <td>修复了手持挖掘铲时渲染错误的视图</td> </tr> <tr> <td rowspan=3 width=120; style="vertical-align:middle">17.1.8</td> <td>修复了挖掘铲可以同时挖掘范围内所有高于挖掘铲挖掘等级的方块BUG</td> </tr> <tr> <td>修复了挖掘铲挖掘时破坏音效叠加的BUG，现在一次挖掘仅会播放一次破坏音效</td> </tr> <tr> <td>修复了挖掘铲挖掘后掉落物高度过低导致被卡在方块中的BUG，现在掉落物高度由0.25修正为1.1</td> </tr> </table>
 
 ​     
 

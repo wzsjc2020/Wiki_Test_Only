@@ -197,14 +197,25 @@
         <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> 
     </tr> 
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
-        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td>     
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td>   
         <td>现在手持挖掘铲在玩家视线指向非宝藏方块时，不再渲染方块轮廓</td> 
     </tr> 
     <tr>     
         <td>修复了手持挖掘铲时渲染错误的视图</td> 
     </tr> 
+    <tr>    
+        <td rowspan=3 width=120; style="vertical-align:middle">17.1.8</td>     
+        <td>修复了挖掘铲可以同时挖掘范围内所有高于挖掘铲挖掘等级的方块BUG</td> 
+    </tr> 
+    <tr>       
+        <td>修复了挖掘铲挖掘时破坏音效叠加的BUG，现在一次挖掘仅会播放一次破坏音效</td> 
+    </tr> 
+    <tr>       
+        <td>修复了挖掘铲挖掘后掉落物高度过低导致被卡在方块中的BUG，现在掉落物高度由0.25修正为1.1</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -299,8 +310,14 @@
     <tr>   
         <td>17.1.1</td>
         <td>现在玩家对着鲜活草地使用骨粉随机生成生命花</td> 
+    </tr>
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=left rowspan=1 width=120; style="vertical-align:middle">17.1.8</td>   
+        <td>现在生命花不再继承NoOffSetFlowerBlock.class, 生命花可以和其他花朵一样具有XZ轴偏移了</td> 
     </tr> 
 </table>
+
 
 
 
@@ -425,7 +442,13 @@
     <tr>     
         <td>现在鲜活草地由带有#zoetic_grass_can_spread方块标签的方块上右键使用生长素转换而来</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.8</td>     
+        <td>现在鲜活草地上放置的植物会自动居中了</td> 
+    </tr>  
 </table>
+
 
 
 
@@ -477,10 +500,16 @@
         <td>加入了碎煤</td> 
     </tr> 
     <tr>    
-        <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.4</td>
+        <td align=left rowspan=1 width=120; style="vertical-align:middle">17.0.4</td>
         <td>碎煤不再合成煤炭，修改为合成木炭（避免和skyblockaddition的特性：煤炭块可以压缩成钻石冲突）</td> 
-    </tr> 
+    </tr>
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.8</td>     
+        <td>现在碎煤可以用作燃料，燃烧时长为100Ticks</td> 
+    </tr>  
 </table>
+
 
 
 ## 花种子

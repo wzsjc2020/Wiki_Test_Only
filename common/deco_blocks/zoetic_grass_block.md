@@ -48,7 +48,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了鲜活草地</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.14</td> <td>移除了合成配方</td> </tr> <tr> <td>现在鲜活草地由带有#zoetic_grass_can_spread方块标签的方块上右键使用生长素转换而来</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.13</td> <td>加入了鲜活草地</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.14</td> <td>移除了合成配方</td> </tr> <tr> <td>现在鲜活草地由带有#zoetic_grass_can_spread方块标签的方块上右键使用生长素转换而来</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.8</td> <td>现在鲜活草地上放置的植物会自动居中了</td> </tr> </table>
 
 ​     
 

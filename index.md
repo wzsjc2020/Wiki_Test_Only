@@ -2,6 +2,8 @@
 
 Note:舒适空岛wiki是一个静态网页，如果遇到问题请在[舒适空岛的Github页面](https://github.com/wzsjc2020/Minecraft-Comfy-Sky-Mod)报告。
 
+当前WIKI版本基于舒适空岛v17.1.8
+
 ​     
 
 <p style="color:white;font-size:25px;font-weight:bold;">📃 物品与方块</p>

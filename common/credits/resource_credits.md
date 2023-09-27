@@ -94,3 +94,29 @@ Note:制作模组所使用的所有美术素材
 
 ​     
 
+## 古代中国编钟
+
+| @作者 | 六仁                     |
+| ----- | ------------------------ |
+| @时间 | 2023                     |
+| @链接 | 不详                     |
+| @描述 | 使用了古代中国编钟的模型 |
+
+​     
+
+## 铜粒
+
+| @作者 | chisel mod creators                                   |
+| ----- | ----------------------------------------------------- |
+| @时间 | 2023                                                  |
+| @证书 | GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007    |
+| @链接 | https://www.curseforge.com/minecraft/mc-mods/oxidized |
+| @描述 | 使用了oxidized模组中copper_nugget的材质               |
+
+​     
+
+
+
+
+
+​     

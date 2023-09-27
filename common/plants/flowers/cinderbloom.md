@@ -30,7 +30,7 @@
 
 ## 交互
 
-可以放置在方块标签为minecraft:dirt或treasurehuntlib:farmland的方块上
+可以放置在方块标签为minecraft:dirt或comfysky:farmland的方块上
 
 ​     
 

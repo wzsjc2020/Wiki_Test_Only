@@ -20,9 +20,17 @@
 
 ## 用途
 
+### 17.1.7及以下版本
+
 9个碎煤合成一个木炭
 
 不可用作燃料
+
+### 17.1.8+
+
+9个碎煤合成一个木炭
+
+用作燃料，燃烧时长100ticks
 
 ​     
 
@@ -36,7 +44,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了碎煤</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.4</td> <td>碎煤不再合成煤炭，修改为合成木炭（避免和skyblockaddition的特性：煤炭块可以压缩成钻石冲突）</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了碎煤</td> </tr> <tr> <td align=left rowspan=1 width=120; style="vertical-align:middle">17.0.4</td> <td>碎煤不再合成煤炭，修改为合成木炭（避免和skyblockaddition的特性：煤炭块可以压缩成钻石冲突）</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.8</td> <td>现在碎煤可以用作燃料，燃烧时长为100Ticks</td> </tr> </table>
 
 ​     
 

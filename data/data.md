@@ -197,7 +197,7 @@
         <td>修复了挖掘铲在玩家视线面对方块侧边不显示方块描边的BUG</td> 
     </tr> 
     <tr>    
-        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=6 width=120; style="vertical-align:middle">1.19.4</td>
         <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.2</td>   
         <td>现在手持挖掘铲在玩家视线指向非宝藏方块时，不再渲染方块轮廓</td> 
     </tr> 
@@ -214,7 +214,12 @@
     <tr>       
         <td>修复了挖掘铲挖掘后掉落物高度过低导致被卡在方块中的BUG，现在掉落物高度由0.25修正为1.1</td> 
     </tr> 
+    <tr>    
+        <td rowspan=1 width=120; style="vertical-align:middle">17.1.9</td>     
+        <td>工程师挖掘铲，皇家挖掘铲，大师挖掘铲现在可以使土壤湿润了</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -321,7 +326,7 @@
 
 
 
-## 挖掘过的沙子
+## 挖掘过的沙子/红沙
 
 <table border=1 style="width:100% ;height:100%">
   	<tr> 
@@ -336,7 +341,13 @@
         <td>17.0.12</td>     
         <td>现在红沙有5%的几率可以挖出碎沙</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.9</td>     
+        <td>现在挖掘红沙不再掉落碎金矿，而是和沙子一样掉落碎铜矿</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -774,6 +785,29 @@
         <td>添加了嗅探兽的蛋在组装台的合成配方</td>
     </tr>
 </table>
+
+
+
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.10</td>     
+        <td>加入了铜调试棒</td> 
+    </tr> 
+    <tr>    
+        <td>17.0.13</td>     
+        <td>现在铜调试棒可以在创造物品栏中获取了</td> 
+    </tr> 
+</table>
+
+
+
+
+
 
 
 

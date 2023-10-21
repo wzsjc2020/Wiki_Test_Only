@@ -2,8 +2,10 @@
 
 <div align=right><p style="color:white;font-size:18
     px;font-weight:bold;"><a href="../../common/updates/root.md">[简体中文]</a>&nbsp;&nbsp;[English(US)]</p></div>
-<p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.8.md">V17.1.8</a></p>
 
+<p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.9.md">V17.1.9</a></p>
+
+<p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.8.md">V17.1.8</a></p>
 
 <p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.7.md">V17.1.7</a></p>
 

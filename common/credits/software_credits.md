@@ -62,6 +62,16 @@ Note:制作模组所使用的所有软件/程序
 | @链接 | https://imgflip.com/gif-maker?from=images |
 | @描述 | 生成gif动态图                             |
 
+​               
+
+## gifmaker
+
+| @作者 | unknown              |
+| ----- | -------------------- |
+| @时间 | 2023                 |
+| @链接 | https://gifmaker.me/ |
+| @描述 | 生成gif动态图        |
+
 ​     
 
 ## IntelliJ IDEA Community Edition

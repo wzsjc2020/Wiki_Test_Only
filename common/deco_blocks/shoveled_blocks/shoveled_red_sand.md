@@ -4,7 +4,7 @@
 
 ​     
 
-| 添加此物品的原因 | 拓展金锭的获取方法，鼓励玩家前往暖水海洋 |
+| 添加此物品的原因 | 拓展铜锭的获取方法，鼓励玩家前往暖水海洋 |
 | :--------------- | :--------------------------------------- |
 | 稀有度           | 常见                                     |
 | 命名空间         | comfysky:shoveled_red_sand               |
@@ -24,7 +24,17 @@
 
 ## 交互
 
+### 17.1.8版本及之前版本
+
 1.使用任意等级的**挖掘铲**挖掘红沙分别有1/20的概率获得碎金矿和碎沙
+
+2.使用任意等级的**挖掘铲**挖掘红沙转换为挖掘过的红沙
+
+​     
+
+### 17.1.9+
+
+1.使用任意等级的**挖掘铲**挖掘红沙分别有1/20的概率获得碎铜矿和碎沙
 
 2.使用任意等级的**挖掘铲**挖掘红沙转换为挖掘过的红沙
 
@@ -41,7 +51,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.6</td> <td>加入了挖掘过的红沙</td> </tr> <tr> <td>17.0.12</td> <td>现在红沙有5%的几率可以挖出碎沙</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.6</td> <td>加入了挖掘过的红沙</td> </tr> <tr> <td>17.0.12</td> <td>现在红沙有5%的几率可以挖出碎沙</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>现在挖掘红沙不再掉落碎金矿，而是和沙子一样掉落碎铜矿</td> </tr> </table>
 
 
 ​     

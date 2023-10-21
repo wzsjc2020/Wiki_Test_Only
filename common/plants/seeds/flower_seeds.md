@@ -30,7 +30,7 @@
 
 ## 交互
 
-1.种植在具有treasurehuntlib:farmland标签的方块上
+1.种植在具有comfysky:farmland标签的方块上
 
 ​     
 

@@ -34,7 +34,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了玻璃碎片</td> </tr> <tr></tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了玻璃碎片</td> </tr> <tr> <td>17.1.10</td> <td>修改了玻璃碎片的物品贴图</td> </tr> </table>
 
 ​     
 

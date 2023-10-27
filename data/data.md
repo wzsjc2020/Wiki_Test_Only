@@ -787,25 +787,69 @@
 </table>
 
 
-
+## 玻璃碎片
 
 <table border=1 style="width:100% ;height:100%">
   	<tr> 
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td>
-        <td width=120;>17.0.10</td>     
-        <td>加入了铜调试棒</td> 
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.9</td>     
+        <td>加入了玻璃碎片</td> 
     </tr> 
     <tr>    
-        <td>17.0.13</td>     
-        <td>现在铜调试棒可以在创造物品栏中获取了</td> 
+        <td>17.1.10</td>     
+        <td>修改了玻璃碎片的物品贴图</td> 
     </tr> 
 </table>
 
 
 
+## 流浪商人追踪器
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=7 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.9</td>     
+        <td>加入了流浪商人追踪器</td> 
+    </tr> 
+    <tr>    
+        <td align=left rowspan=4 width=120; style="vertical-align:middle">17.1.10</td>     
+        <td>修复了玩家手持流浪商人追踪器时错误的显示</td> 
+    </tr> 
+    <tr>     
+        <td>修复了流浪商人追踪器错误的预测流浪商人生成的BUG</td> 
+    </tr> 
+    <tr>     
+        <td>去除了流浪商人追踪器不必要的物品提示</td> 
+    </tr> 
+    <tr>     
+        <td>修改了流浪商人追踪器的物品贴图</td> 
+    </tr> 
+</table>
+
+
+
+## 简易篝火
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.8</td>     
+        <td>加入了简易篝火</td> 
+    </tr> 
+    <tr>    
+        <td>17.1.10</td>     
+        <td>修复了玩家手持简易篝火时错误的显示</td> 
+    </tr> 
+</table>
 
 
 

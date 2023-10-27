@@ -80,15 +80,13 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.8</td> <td>加入了简易篝火</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.8</td> <td>加入了简易篝火</td> </tr> <tr> <td>17.1.10</td> <td>修复了玩家手持简易篝火时错误的显示</td> </tr> </table>
 
 ​     
 
 ## 你知道吗
 
-1.简易篝火使用的配方类型是壁炉（RecipeType.FIREPLACE），这是作者故意为之
-
-这个壁炉中大部分代码是由乡野装饰壁炉被弃用的代码复制而来
+1.简易篝火使用的配方类型是壁炉（RecipeType.FIREPLACE），这并非是错误
 
 2.简易篝火的原型源自于漫漫长夜（The Long Dark）中的营火
 

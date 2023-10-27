@@ -115,14 +115,14 @@ Note:制作模组所使用的所有美术素材
 
 ​     
 
-## 碎玻璃
+## 玻璃碎片
 
-| @作者 | dromera5                                                    |
-| ----- | ----------------------------------------------------------- |
-| @时间 | 2023                                                        |
-| @证书 | no restrict                                                 |
-| @链接 | https://www.curseforge.com/minecraft/mc-mods/antimatter-mod |
-| @描述 | 使用了AntimatterMod-1.16.4+-+1.0.0模组中antimatter的材质    |
+| @作者 | dromera5                                                     |
+| ----- | ------------------------------------------------------------ |
+| @时间 | 2023                                                         |
+| @证书 | no restrict                                                  |
+| @链接 | https://www.curseforge.com/minecraft/mc-mods/antimatter-mod  |
+| @描述 | 使用了AntimatterMod-1.16.4+-+1.0.0模组中antimatter的材质，并进行了修改 |
 
 ​     
 

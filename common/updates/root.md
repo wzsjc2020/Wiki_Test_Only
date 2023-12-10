@@ -2,6 +2,9 @@
 
 <div align=right><p style="color:white;font-size:18
     px;font-weight:bold;">[简体中文]&nbsp;&nbsp;<a href="../../en_us/updates/root.md">[English(US)]</a></p></div>
+<p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.11.md">V17.1.11</a></p>
+
+
 <p style="color:white;font-size:25px;font-weight:bold;"><a href="v17.1.10.md">V17.1.10</a></p>
 
 

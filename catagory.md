@@ -10,9 +10,11 @@
     </tr> 
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物</td>
-        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">非暴力（雕塑）</a> </td> 
+        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">非暴力</a> </td> 
     </tr> 
 </table>
+
+
 
 
 
@@ -26,7 +28,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=4 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">工具</td>
-        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> </td> 
+        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/utilities/player_vital_signs_tracker.md">玩家生命体征追踪器</a> </td> 
     </tr>
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">挖掘铲</td>
@@ -41,6 +43,7 @@
      <td align=left><img src=resources/icon/debug_copper_stick-32px.png> <a href="common/utilities/debug_copper_stick.md">铜调试棒</a> <img src=resources/icon/seed_of_the_world-32px.png> <a href="common/utilities/seed_of_the_world.md">世界之种</a></td>
 	</tr> 
 </table>
+
 
 
 

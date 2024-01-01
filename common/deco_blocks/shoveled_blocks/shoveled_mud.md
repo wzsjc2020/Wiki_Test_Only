@@ -12,6 +12,14 @@
 
 ​     
 
+## 生成
+
+### 被动生成
+
+使用任意等级的挖掘铲挖掘泥巴生成挖掘过的泥巴
+
+​     
+
 ## 获取
 
 生存模式无法获取
@@ -45,7 +53,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.15</td> <td>加入了挖掘过的泥巴</td> </tr> <tr></tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.0.15</td> <td>加入了挖掘过的泥巴</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td> <td>现在挖掘过的泥巴的最大湿润度由7更改为5</td> </tr> </table>
 
 ​     
 

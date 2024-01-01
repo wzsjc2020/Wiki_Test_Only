@@ -10,7 +10,7 @@
     </tr> 
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物</td>
-        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">非暴力</a> </td> 
+        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> </td> 
     </tr> 
 </table>
 
@@ -28,7 +28,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=4 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">工具</td>
-        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/utilities/player_vital_signs_tracker.md">玩家生命体征追踪器</a> </td> 
+        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/utilities/player_vital_signs_tracker.md">玩家生命体征追踪器</a> <img src=resources/icon/isometric_torch_spectacles-32px.png> <a href="common/utilities/isometric_torch_spectacles.md">等距火把眼镜</a> </td> 
     </tr>
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">挖掘铲</td>
@@ -40,9 +40,10 @@
     </tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #864796;color:white;">仅创造</td>    
-     <td align=left><img src=resources/icon/debug_copper_stick-32px.png> <a href="common/utilities/debug_copper_stick.md">铜调试棒</a> <img src=resources/icon/seed_of_the_world-32px.png> <a href="common/utilities/seed_of_the_world.md">世界之种</a></td>
+     <td align=left><img src=resources/icon/debug_copper_stick-32px.png> <a href="common/utilities/debug_copper_stick.md">铜调试棒</a> <img src=resources/icon/seed_of_the_world-32px.png> <a href="common/utilities/seed_of_the_world.md">世界之种</a> <img src=resources/icon/night_vision_goggles-32px.png> <a href="common/utilities/night_vision_goggles.md">夜视眼镜</a> </td>
 	</tr> 
 </table>
+
 
 
 
@@ -56,15 +57,20 @@
       	<th align=center colspan=4>舒适空岛（Comfy Sky）的 物品/方块 资料</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">建筑方块</td>
-        <td colspan=2><img src=resources/icon/zoetic_grass_block-32px.png> <a href="common/deco_blocks/zoetic_grass_block.md">鲜活草地</a> <img src=resources/icon/suspicious_grass_block-32px.png> <a href="common/deco_blocks/suspicious_grass_block.md">可疑的草方块</a> <img src=resources/icon/suspicious_mud-32px.png> <a href="common/deco_blocks/suspicious_mud.md">可疑的泥巴</a>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">建筑方块</td>
+        <td colspan=3><img src=resources/icon/zoetic_grass_block-32px.png> <a href="common/deco_blocks/zoetic_grass_block.md">鲜活草地</a>
         </td> 
     </tr> 
     <tr>       
+     <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">可疑的方块</td>    
+     <td align=left> <img src=resources/icon/suspicious_grass_block-32px.png> <a href="common/deco_blocks/suspicious_blocks/suspicious_grass_block.md">可疑的草方块</a> <img src=resources/icon/suspicious_red_sand-32px.png> <a href="common/deco_blocks/suspicious_blocks/suspicious_red_sand.md">可疑的红沙</a> <img src=resources/icon/suspicious_sand-32px.png> <a href="common/deco_blocks/suspicious_blocks/suspicious_sand.md">可疑的沙子</a> <img src=resources/icon/suspicious_mud-32px.png> <a href="common/deco_blocks/suspicious_blocks/suspicious_mud.md">可疑的泥巴</a> <img src=resources/icon/suspicious_snow_block-32px.png> <a href="common/deco_blocks/suspicious_blocks/suspicious_snow_block.md">可疑的雪块</a> </td>
+	</tr> 
+    <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">挖掘过的方块</td>    
-     <td align=left><img src=resources/icon/shoveled_grass_block-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_grass_block.md">挖掘过的草方块</a> <img src=resources/icon/shoveled_red_sand-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_red_sand.md">挖掘过的红沙</a>  <img src=resources/icon/shoveled_sand-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_sand.md">挖掘过的沙子</a> <img src=resources/icon/shoveled_snow_block-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_snow_block.md">挖掘过的雪块</a> <img src=resources/icon/shoveled_mud-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_mud.md">挖掘过的泥巴</a> </td>
+     <td align=left><img src=resources/icon/shoveled_grass_block-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_grass_block.md">挖掘过的草方块</a> <img src=resources/icon/shoveled_red_sand-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_red_sand.md">挖掘过的红沙</a>  <img src=resources/icon/shoveled_sand-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_sand.md">挖掘过的沙子</a>  <img src=resources/icon/shoveled_mud-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_mud.md">挖掘过的泥巴</a> <img src=resources/icon/shoveled_snow_block-32px.png> <a href="common/deco_blocks/shoveled_blocks/shoveled_snow_block.md">挖掘过的雪块</a> </td>
 	</tr> 
 </table>
+
 
 
 
@@ -91,9 +97,13 @@
       	<th align=center colspan=4>舒适空岛（Comfy Sky）的 物品/方块 资料</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=4 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">材料</td>
-        <td colspan=4><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> </td> 
+        <td align=center rowspan=5 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">材料</td>
+        <td colspan=5><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> </td> 
     </tr> 
+     <tr>       
+     <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">补充包</td>
+     <td align=left><img src=resources/image/suspicious_booster_pack.gif> <a href="common/materials/booster_packs/suspicious_booster_pack.md">可疑的补充包</a>
+	</tr>
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">锻造升级模板</td>
      <td align=left><img src=resources/icon/empty_upgrade_smithing_template-32px.png> <a href="common/materials/upgrade_smithing_templates/empty_upgrade_smithing_template.md">空白锻造升级模板</a> <img src=resources/image/upgrade_smithing_template.gif> <a href="common/materials/upgrade_smithing_templates/upgrade_smithing_template.md">(水元素-工程师-皇家-大师) 锻造升级模板</a>
@@ -104,9 +114,10 @@
 	</tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物碎片</td>
-     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a>
+     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a> <img src=resources/image/cyan_directional_portal_door_piece.gif> <a href="common/materials/artifact_pieces/cyan_directional_portal_door_pieces.md">青色定向传送门碎片</a>
 	</tr>
 </table>
+
 
 
 
@@ -147,36 +158,3 @@ background-color: #002936;
 
 
 
-功能性方块
-
-​	-日历-浮竹-静电释放器-打包过的木桶-捕鱼陷阱
-
-植物
-
-​	-种子-功能花
-
-材料
-
-​	-粉碎矿物-升级锻造模板
-
-​	-生长素
-
-食品
-
-​	-无
-
-建筑方块
-
-​	-挖掘过的方块-鲜活草地
-
-工具
-
-​	打包带--挖掘铲-半砖搬运器-仅创造
-
-隐藏物品
-
-​	-金唱片
-
-旧版物品
-
-​	-已移除

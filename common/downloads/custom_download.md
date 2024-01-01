@@ -1,12 +1,12 @@
-# 下载
+# 自定义下载
 
-## 模组下载
+## 第一步：下载舒适空岛
 
 [Comfy Sky - Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/comfy-sky)
 
 ​     
 
-## 前置
+## 第二步：下载舒适空岛前置
 
 [Treasure Hunt Lib - CurseForge（舒适空岛v17.1.5及之后版本无需安装）](https://www.curseforge.com/minecraft/mc-mods/treasure-hunt-lib)
 
@@ -20,7 +20,9 @@
 
 ​     
 
-## 选装
+## 第三步：选装其他模组
+
+注意：列举在此的模组经过测试与舒适空岛无冲突，作者建议同时安装这些模组
 
 [REI - CurseForge](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 
@@ -46,23 +48,13 @@
 
 ​     
 
-## 整合包下载
+## 第四步：将舒适空岛模组和选装模组拖入游戏模组文件夹
 
-### 1.19.2
+完成！运行游戏！
 
-[最新李芒果空岛1.19.2整合包-_哔哩哔哩](https://www.bilibili.com/video/BV1Sd4y11798/?spm_id_from=333.999.0.0&vd_source=3d47f7f15977e64edde817f5a2a56593)
 
-​     
 
-### 1.19.4
 
-🚧暂无
-
-​     
-
-### 1.20.1
-
-[最新的李芒果空岛整合包1.20.1_哔哩哔哩](https://www.bilibili.com/video/BV1kh4y157so/?spm_id_from=333.337.search-card.all.click&vd_source=3d47f7f15977e64edde817f5a2a56593)
 
 
 

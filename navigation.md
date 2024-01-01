@@ -4,7 +4,7 @@
 
 [主页](index.md)
 
-[下载](download.md)
+[下载](common/downloads/root.md)
 
 [关于模组](common/about/root.md)
 

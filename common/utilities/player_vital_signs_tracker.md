@@ -66,7 +66,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.11</td> <td>加入了玩家生命体征追踪器</td> </tr></table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.11</td> <td>加入了玩家生命体征追踪器</td> </tr> <tr> <td>17.1.12</td> <td>现在玩家生命体征追踪器物品文本提示在绑定玩家未在线或不在同一维度时，不再显示警告模式</td> </tr> </table>
 
 ​     
 

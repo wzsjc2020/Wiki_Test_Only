@@ -48,7 +48,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=7 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了流浪商人追踪器</td> </tr> <tr> <td align=left rowspan=4 width=120; style="vertical-align:middle">17.1.10</td> <td>修复了玩家手持流浪商人追踪器时错误的显示</td> </tr> <tr> <td>修复了流浪商人追踪器错误的预测流浪商人生成的BUG</td> </tr> <tr> <td>去除了流浪商人追踪器不必要的物品提示</td> </tr> <tr> <td>修改了流浪商人追踪器的物品贴图</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了流浪商人追踪器</td> </tr> <tr> <td align=left rowspan=4 width=120; style="vertical-align:middle">17.1.10</td> <td>修复了玩家手持流浪商人追踪器时错误的显示</td> </tr> <tr> <td>修复了流浪商人追踪器错误的预测流浪商人生成的BUG</td> </tr> <tr> <td>去除了流浪商人追踪器不必要的物品提示</td> </tr> <tr> <td>修改了流浪商人追踪器的物品贴图</td> </tr> <tr> <td align=center rowspan=8 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.12</td> <td>再次修改了流浪商人追踪器的物品贴图</td> </tr> </table>
 
 ​     
 

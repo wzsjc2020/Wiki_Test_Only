@@ -326,7 +326,7 @@
 
 
 
-## 挖掘过的沙子/红沙
+## 挖掘过的红沙
 
 <table border=1 style="width:100% ;height:100%">
   	<tr> 
@@ -346,8 +346,42 @@
         <td width=120;>17.1.9</td>     
         <td>现在挖掘红沙不再掉落碎金矿，而是和沙子一样掉落碎铜矿</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">17.1.12</td>   
+        <td>现在挖掘过的红沙在转换为重力方块时将被重置为红沙</td> 
+    </tr> 
+    <tr>        
+        <td>现在挖掘过的红沙具有最高为5的湿润度，但是不可作为耕地</td> 
+    </tr> 
 </table>
 
+
+
+## 挖掘过的沙子
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">1.19.2</td>
+        <td width=120;>17.0.13</td>     
+        <td>加入了挖掘过的沙子</td> 
+    </tr> 
+    <tr>    
+        <td>17.0.14</td>     
+        <td>修复了挖掘后掉落红沙的BUG</td> 
+    </tr> 
+    <tr>    
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">17.1.12</td>   
+        <td>现在挖掘过的沙子在转换为重力方块时将被重置为沙子</td> 
+    </tr> 
+    <tr>        
+        <td>现在挖掘过的沙子具有最高为5的湿润度，但是不可作为耕地</td> 
+    </tr> 
+</table>
 
 
 
@@ -457,8 +491,15 @@
         <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
         <td width=120;>17.1.8</td>     
         <td>现在鲜活草地上放置的植物会自动居中了</td> 
-    </tr>  
+    </tr> 
+    </tr>
+        <tr> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td>
+        <td>鲜活草地默认颜色由0x369E1D更改为0x4C9E1D，同时增加了变种颜色0x519127</td>
+    </tr>
 </table>
+
 
 
 
@@ -813,7 +854,7 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=7 width=120; style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td>
         <td width=120;>17.1.9</td>     
         <td>加入了流浪商人追踪器</td> 
     </tr> 
@@ -830,7 +871,13 @@
     <tr>     
         <td>修改了流浪商人追踪器的物品贴图</td> 
     </tr> 
+     <tr>    
+        <td align=center rowspan=8 width=120; style="vertical-align:middle">1.20.1</td>
+        <td width=120;>17.1.12</td>     
+        <td>再次修改了流浪商人追踪器的物品贴图</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -851,6 +898,159 @@
     </tr> 
 </table>
 
+
+## 玩家生命体征追踪器
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.20.1</td>
+        <td width=120;>17.1.11</td>     
+        <td>加入了玩家生命体征追踪器</td> 
+    </tr> 
+    <tr>    
+        <td>17.1.12</td>     
+        <td>现在玩家生命体征追踪器物品文本提示在绑定玩家未在线或不在同一维度时，不再显示警告模式</td> 
+    </tr> 
+</table>
+
+
+
+## 《非暴力》
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=5>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=1 width=120 style="vertical-align:middle">1.19.4</td>
+        <td align=center rowspan=1 width=120 style="vertical-align:middle">17.1.10</td>     
+        <td>加入了《非暴力》</td> 
+    </tr> 
+    <tr>    
+        <td align=center rowspan=4 width=120 style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=4 width=120 style="vertical-align:middle">17.1.12</td>   
+        <td>加入了 《非暴力》系列方块</td> 
+    </tr>
+    <tr>     
+        <td>取消了《非暴力》方块的寻路，现在该方块的寻路被设置为false</td> 
+    </tr>
+    <tr>     
+        <td>修正了简体中文中有关非暴力的命名方式，现在《非暴力》在中文中带书名号</td> 
+    </tr>
+    <tr>     
+        <td>现在可疑的草方块中可获得的物品由《非暴力》更改为氧化的《非暴力》，其成就触发物品不受影响</td> 
+    </tr>
+</table>
+
+
+
+
+
+## 挖掘过的泥巴
+
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th>
+    </tr>
+    <tr> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.0.15</td>
+        <td>加入了挖掘过的泥巴</td>
+    </tr>
+        <tr> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td>
+        <td>现在挖掘过的泥巴的最大湿润度由7更改为5</td>
+    </tr>
+</table>
+
+
+
+## 挖掘过的雪块
+
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th>
+    </tr>
+    <tr> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> 
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.0.15</td>
+        <td>加入了挖掘过的雪块</td>
+    </tr>
+    <tr>    
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=2 width=120 style="vertical-align:middle">17.1.12</td>   
+        <td>现在挖掘过的沙子具有最高为5的湿润度，但是不可作为耕地</td> 
+    </tr> 
+    <tr>        
+        <td>修复了挖掘过的雪块可以被水流冲毁的BUG</td> 
+    </tr> 
+</table>
+
+
+## 定向传送门
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">17.1.12</td>   
+        <td>加入了粉色定向传送门</td> 
+    </tr> 
+    <tr>        
+        <td>加入了青色定向传送门</td> 
+    </tr> 
+</table>
+
+
+## 可疑的补充包
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.12</td>   
+        <td>加入了可疑的草方块补充包</td> 
+    </tr> 
+    <tr>        
+        <td>加入了可疑的红沙补充包</td> 
+    </tr> 
+    <tr>        
+        <td>加入了可疑的沙子补充包</td> 
+    </tr> 
+    <tr>        
+        <td>加入了可疑的泥巴补充包</td> 
+    </tr> 
+    <tr>        
+        <td>加入了可疑的雪块补充包</td> 
+    </tr> 
+</table>
+
+
+
+
+<table border=1>
+    <tr>
+        <th align=left colspan=3> 标签 </th>
+    </tr>
+    <tr>
+        <td align=center rowspan=1 width=120; style="vertical-align:middle"> 方块标签 </td>
+        <td> #minecraft:mineable/axe </td>
+    </tr>
+    <tr>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle"> NBT标签 </td>
+        <td> #Name </td>
+    </tr>
+    <tr>
+        <td> #BlockPos </td>
+    </tr>
+    <tr>
+        <td> #Inventory </td>
+    </tr>
+</table>
 
 
 

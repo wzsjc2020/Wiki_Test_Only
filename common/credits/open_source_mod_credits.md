@@ -64,3 +64,26 @@ Note:制作模组所参考的开源模组
 | @描述 | 参考了 Speedy Ladder 1.18有关玩家在梯子上时增加爬行速度的代码 |
 
 ​     
+
+## Immersive Weathering
+
+| @作者 | MehVahdJukaar，keyberries，OrdanaryMods contributors |
+| ----- | ---------------------------------------------------- |
+| @时间 | 2023                                                 |
+| @证书 | LGPL-3.0 license                                     |
+| @链接 | https://github.com/AstralOrdana/Immersive-Weathering |
+| @描述 | 参考了 Immersive-Weathering 1.19.2，并重新整理和架构 |
+
+​     
+
+## Villager Hats(6438)
+
+| @作者 | PinkGoosik                                                   |
+| ----- | ------------------------------------------------------------ |
+| @时间 | 2023                                                         |
+| @证书 | MIT licence                                                  |
+| @链接 | https://www.curseforge.com/minecraft/mc-mods/villager-hats-mod |
+| @描述 | 参考了Villager Hats，并重新整理和架构                        |
+
+​     
+

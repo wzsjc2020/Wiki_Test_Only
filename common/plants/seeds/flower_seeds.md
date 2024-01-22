@@ -20,6 +20,8 @@
 
 ## 用途
 
+注*：在1.20.1-17.1.13版本之后，使用方块标签 flower_seedling_can_grow.json 来自定义花种子可以种出哪些花
+
 1.通过种植获得Minecraft所有种类的小型花
 
 2.通过种植获得露水花
@@ -30,7 +32,15 @@
 
 ## 交互
 
-1.种植在具有comfysky:farmland标签的方块上
+### 种植
+
+种植在具有comfysky:farmland标签的方块上
+
+​     
+
+### 加速生长
+
+1.20.1-17.1.13以及之后版本可通过使用花肥来加速花种子的生长
 
 ​     
 
@@ -45,7 +55,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了花种子（treasurehuntlib:flower_seeds）</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.15</td> <td>移除了花种子（treasurehuntlib:flower_seeds）</td> </tr> <tr> <td>加入了花种子（comfysky:flower_seeds）</td> </tr> </tr> <tr> <td>17.1.0</td> <td>修复了花苗破坏后不掉落花种子的BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.1</td> <td>加入了花种子（treasurehuntlib:flower_seeds）</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.15</td> <td>移除了花种子（treasurehuntlib:flower_seeds）</td> </tr> <tr> <td>加入了花种子（comfysky:flower_seeds）</td> </tr> </tr> <tr> <td>17.1.0</td> <td>修复了花苗破坏后不掉落花种子的BUG</td> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td> <td>现在花种子可以被花肥催熟了</td> </tr> <tr> <td>现在可以使用数据包来自定义花种子可以长出哪些花</td> </tr> </table>
 
 ​     
 

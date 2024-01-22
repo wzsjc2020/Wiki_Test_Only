@@ -126,6 +126,19 @@ Note:制作模组所使用的所有美术素材
 
 ​     
 
+## 花肥
+
+| @作者 | Vazkii and other creators of Botania                         |
+| ----- | ------------------------------------------------------------ |
+| @时间 | 2024                                                         |
+| @证书 | [Botania - License (botaniamod.net)](https://botaniamod.net/license.html) |
+| @链接 | https://www.curseforge.com/minecraft/mc-mods/botania         |
+| @描述 | 使用了植物魔法模组中 花肥 的材质                             |
+
+​     
+
+
+
 
 
 

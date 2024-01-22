@@ -8,12 +8,6 @@
 
 ​     
 
-## 可疑的方块列表
-
-<div align=center><img src=../../resources/icon/suspicious_grass_block-128px.png> <img src=../../resources/icon/suspicious_mud-128px.png></div>
-
-​     
-
 ## 可疑的方块生成（被动生成）
 
 当被挖掘过的方块转化为原来的方块时，在挖掘点周围（不含挖掘点）8格曼哈顿距离*之内随机生成一个可疑的方块，其生成概率为80分之1（即1.25%）

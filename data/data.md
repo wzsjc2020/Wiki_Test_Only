@@ -58,7 +58,22 @@
         <td>17.0.10</td>     
         <td>修改了block.comfysky.potted_dew_flower中文译名为露水花盆栽</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td>     
+        <td>修复了玩家在使用铜调试棒时，露水花会被意外的记录交互时间从而无法采集露水的BUG</td> 
+    </tr> 
+    <tr>        
+        <td>现在拿着水瓶右键露水花无论是否可以收集到露水都会被记录交互时间</td> 
+    </tr> 
+    <tr>        
+        <td>现在露水花增加了采集音效</td> 
+    </tr> 
+    <tr>        
+        <td>现在露水花在可以采集露水时有滴水的粒子效果</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -321,7 +336,13 @@
         <td align=left rowspan=1 width=120; style="vertical-align:middle">17.1.8</td>   
         <td>现在生命花不再继承NoOffSetFlowerBlock.class, 生命花可以和其他花朵一样具有XZ轴偏移了</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=left rowspan=1 width=120; style="vertical-align:middle">17.1.13</td>   
+        <td>现在可以对着鲜活草地使用花肥生长出生命花</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -587,7 +608,16 @@
         <td>17.1.0</td> 
         <td>修复了花苗破坏后不掉落花种子的BUG</td> 
     </tr> 
+    <tr>    
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td>     
+        <td>现在花种子可以被花肥催熟了</td> 
+    </tr> 
+    <tr>        
+        <td>现在可以使用数据包来自定义花种子可以长出哪些花</td> 
+    </tr> 
 </table>
+
 
 
 ## 金唱片
@@ -994,14 +1024,22 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td>
-        <td align=center rowspan=3 width=120; style="vertical-align:middle">17.1.12</td>   
+        <td align=center rowspan=4 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.12</td>   
         <td>加入了粉色定向传送门</td> 
     </tr> 
     <tr>        
         <td>加入了青色定向传送门</td> 
+    </tr>
+    <tr>        
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td> 
+        <td>加入了黄绿色定向传送门</td> 
     </tr> 
+    <tr>        
+        <td>加入了黄色定向传送门</td> 
+    </tr>
 </table>
+
 
 
 ## 可疑的补充包
@@ -1030,6 +1068,22 @@
 </table>
 
 
+## 花肥桶碎片
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td>     
+        <td>加入了花肥桶1号碎片</td> 
+    </tr> 
+    <tr>        
+        <td>加入了花肥桶2号碎片</td> 
+    </tr> 
+</table>
+
 
 
 <table border=1>
@@ -1053,7 +1107,23 @@
 </table>
 
 
+## 骨梯
 
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td>
+        <td width=120;>17.1.9</td>     
+        <td>加入了骨梯</td> 
+    </tr> 
+    <tr>    
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td>
+        <td width=120;>17.1.13</td>     
+        <td>修复了玩家在创造模式飞行时使用骨梯被意外的添加附加速度的BUG</td> 
+    </tr> 
+</table>
 
 
 

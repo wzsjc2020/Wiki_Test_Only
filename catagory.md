@@ -6,13 +6,14 @@
     </tr>  
     <tr>    
         <td align=center rowspan=2 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">功能性方块</td>
-        <td align=left colspan=2><img src=resources/icon/wall_calendar_sign-32px.png> <a href="common/functional_blocks/wall_calendar_sign.md">挂历</a> <img src=resources/image/driftwood.gif> <a href="common/functional_blocks/driftwood.md">浮木/浮竹</a> <img src=resources/icon/fish_trap-32px.png> <a href="common/functional_blocks/fish_trap.md">捕鱼陷阱</a> <img src=resources/icon/electrostatic_discharge_rod-32px.png> <a href="common/functional_blocks/electrostatic_discharge_rod.md">静电释放器</a> <img src=resources/icon/packed_barrel-32px.png> <a href="common/functional_blocks/packed_barrel.md">打包过的木桶</a> <img src=resources/icon/assembly_station-32px.png> <a href="common/functional_blocks/assembly_station.md">组装台</a> <img src=resources/icon/simple_bonfire-32px.png> <a href="common/functional_blocks/simple_bonfire.md">简易篝火</a> <img src=resources/icon/bone_ladder-32px.png> <a href="common/functional_blocks/bone_ladder.md">骨梯</a> </td>
+        <td align=left colspan=2><img src=resources/icon/wall_calendar_sign-32px.png> <a href="common/functional_blocks/wall_calendar_sign.md">挂历</a> <img src=resources/image/driftwood.gif> <a href="common/functional_blocks/driftwood.md">浮木/浮竹</a> <img src=resources/icon/fish_trap-32px.png> <a href="common/functional_blocks/fish_trap.md">捕鱼陷阱</a> <img src=resources/icon/electrostatic_discharge_rod-32px.png> <a href="common/functional_blocks/electrostatic_discharge_rod.md">静电释放器</a> <img src=resources/icon/packed_barrel-32px.png> <a href="common/functional_blocks/packed_barrel.md">打包过的木桶</a> <img src=resources/icon/assembly_station-32px.png> <a href="common/functional_blocks/assembly_station.md">组装台</a> <img src=resources/icon/simple_bonfire-32px.png> <a href="common/functional_blocks/simple_bonfire.md">简易篝火</a> <img src=resources/icon/bone_ladder-32px.png> <a href="common/functional_blocks/bone_ladder.md">骨梯</a> <img src=resources/icon/wither_bone_ladder-32px.png> <a href="common/functional_blocks/wither_bone_ladder.md">凋零骨梯</a> <img src=resources/icon/wood_weather_vane-32px.png> <a href="common/functional_blocks/wood_weather_vane.md">木风向标</a> </td>
     </tr> 
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物</td>
-        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> </td> 
+        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> <img src=resources/icon/flower_composter-32px.png> <a href="common/functional_blocks/artifacts/flower_composter.md">花肥桶</a> </td> 
     </tr> 
 </table>
+
 
 
 
@@ -98,7 +99,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=5 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">材料</td>
-        <td colspan=5><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> </td> 
+        <td colspan=5><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> <img src=resources/icon/flower_fertilizer-32px.png> <a href="common/materials/flower_fertilizer.md">花肥</a> </td> 
     </tr> 
      <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">补充包</td>
@@ -114,9 +115,10 @@
 	</tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物碎片</td>
-     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a> <img src=resources/image/cyan_directional_portal_door_piece.gif> <a href="common/materials/artifact_pieces/cyan_directional_portal_door_pieces.md">青色定向传送门碎片</a>
+     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a> <img src=resources/image/cyan_directional_portal_door_piece.gif> <a href="common/materials/artifact_pieces/cyan_directional_portal_door_pieces.md">青色定向传送门碎片</a> <img src=resources/image/flower_composter_piece.gif> <a href="common/materials/artifact_pieces/flower_composter_pieces.md">花肥桶碎片</a>
 	</tr>
 </table>
+
 
 
 

@@ -34,6 +34,8 @@
 
 ## 数值表
 
+<table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #minecraft:mineable/pickaxe </td> </tr> </table>
+
 ​     
 
 ## 历史

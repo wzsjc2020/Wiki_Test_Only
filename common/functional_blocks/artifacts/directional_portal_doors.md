@@ -8,7 +8,7 @@
 
 | 添加此物品的原因 | 主世界远距离穿行通过地狱门过于繁琐    |
 | :--------------- | :------------------------------------ |
-| 稀有度           | 稀有                                  |
+| 稀有度           | 罕见                                  |
 | 命名空间         | comfysky:cyan_directional_portal_door |
 | 添加版本         | 17.1.12                               |
 
@@ -22,17 +22,51 @@
 
 | 添加此物品的原因 | 主世界远距离穿行通过地狱门过于繁琐    |
 | :--------------- | :------------------------------------ |
-| 稀有度           | 稀有                                  |
+| 稀有度           | 罕见                                  |
 | 命名空间         | comfysky:pink_directional_portal_door |
 | 添加版本         | 17.1.12                               |
 
 ​     
 
+## 黄绿色定向传送门（定向传送门变种）
+
+<div align=center><img src=../../../resources/icon/lime_directional_portal_door-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | 主世界远距离穿行通过地狱门过于繁琐    |
+| :--------------- | :------------------------------------ |
+| 稀有度           | 罕见                                  |
+| 命名空间         | comfysky:lime_directional_portal_door |
+| 添加版本         | 17.1.13                               |
+
+​     
+
+## 黄色定向传送门（定向传送门变种）
+
+<div align=center><img src=../../../resources/icon/yellow_directional_portal_door-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | 主世界远距离穿行通过地狱门过于繁琐      |
+| :--------------- | :-------------------------------------- |
+| 稀有度           | 罕见                                    |
+| 命名空间         | comfysky:yellow_directional_portal_door |
+| 添加版本         | 17.1.13                                 |
+
+​     
+
 ## 获取
 
-1.青色定向传送门由组装台使用碎片合成
+### 古物碎片合成
 
-2.定向传送门可由玩家手持对应的染料右键定向传送门进行更改颜色
+（仅限）青色定向传送门由组装台使用碎片合成
+
+​     
+
+### 染色
+
+定向传送门可由玩家手持对应的颜色染料右键定向传送门更改颜色
 
 ​     
 
@@ -40,7 +74,7 @@
 
 ### 无限距离离传送玩家
 
-听上去有些超模，但实际上并没有特别超模。原因是Minecraft的地狱门传送系统需要不断在两个世界内来回切换，虽然能节省部分时间，但是依旧操作过于麻烦，有时还会导致串门之类让人恼火的问题。
+Minecraft的地狱门传送系统需要不断在两个世界内来回切换，虽然能节省部分时间，但是依旧操作过于麻烦，有时还会导致串门之类让人恼火的问题。
 
 在当前版本中对定向传送门做了很多限制，比如：
 
@@ -60,7 +94,14 @@
 
 当玩家主手上有染料时，可以右键将定向传送门染色
 
-17.1.12+支持的染料有：粉色染料，青色染料
+**各版本可染染色列表**
+
+|        | 图例                                                         | 17.1.12 | 17.1.13 |
+| ------ | ------------------------------------------------------------ | ------- | ------- |
+| 青色   | ![](../../../resources/icon/cyan_directional_portal_door-32px.png) | 支持    | 支持    |
+| 粉色   | ![](../../../resources/icon/pink_directional_portal_door-32px.png) | 支持    | 支持    |
+| 黄绿色 | ![](../../../resources/icon/lime_directional_portal_door-32px.png) |         | 支持    |
+| 黄色   | ![](../../../resources/icon/yellow_directional_portal_door-32px.png) |         | 支持    |
 
 <img src="../../../resources/image/directional_portal_door_dye.gif" style="zoom:50%;" />
 
@@ -160,12 +201,12 @@ Shift+右键一个传送门以解除传送门绑定
 
 ​     
 
-| 常量                         | 数据 | 数据类型 |
-| :--------------------------- | ---- | -------- |
-| @Debuggable                  | true | boolean  |
-| @DyeColor                    | ？   | DyeColor |
-| DEFAULT_PORTAL_DOOR_COOLDOWN | 300  | int      |
-| FREE_TELEPORT_DISTANCE       | 2000 | int      |
+| 常量                          | 数据 | 数据类型 |
+| :---------------------------- | ---- | -------- |
+| @Debuggable                   | true | boolean  |
+| @DyeColor                     | ？   | DyeColor |
+| @DEFAULT_PORTAL_DOOR_COOLDOWN | 300  | int      |
+| @FREE_TELEPORT_DISTANCE       | 2000 | int      |
 
 <table border=1> <tr> <th align=left colspan=3> 标签 </th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle"> 方块标签 </td> <td> #minecraft:mineable/axe </td> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle"> NBT标签 </td> <td> #Name </td> </tr> <tr> <td> #BlockPos </td> </tr> <tr> <td> #Inventory </td> </tr> </table>
 
@@ -173,7 +214,7 @@ Shift+右键一个传送门以解除传送门绑定
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=3 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了粉色定向传送门</td> </tr> <tr> <td>加入了青色定向传送门</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了粉色定向传送门</td> </tr> <tr> <td>加入了青色定向传送门</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td> <td>加入了黄绿色定向传送门</td> </tr> <tr> <td>加入了黄色定向传送门</td> </tr> </table>
 
 ​     
 

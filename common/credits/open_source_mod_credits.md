@@ -87,3 +87,18 @@ Note:制作模组所参考的开源模组
 
 ​     
 
+## Convenient Decor
+
+| @作者 | mim1q                                                        |
+| ----- | ------------------------------------------------------------ |
+| @时间 | 2024                                                         |
+| @证书 | Apache License Version 2.0                                   |
+| @链接 | https://www.curseforge.com/minecraft/mc-mods/convenient-decor |
+| @描述 | 使用了Convenient Decor中有关于风向标的代码                   |
+
+​     
+
+
+
+
+

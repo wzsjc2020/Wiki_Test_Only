@@ -1,5 +1,7 @@
 # 下载
 
+Warning:我们遇到了一些技术上的问题，CurseForge无法上传文件，下载请暂时移步到[Modrinth](https://modrinth.com/mod/comfy-sky/)
+
 Note:舒适空岛wiki是一个静态网页，如果遇到问题请在[舒适空岛的Github页面](https://github.com/wzsjc2020/Minecraft-Comfy-Sky-Mod)报告。
 
 您需要选择其中之一的下载方式，**点击自定义下载或整合包下载**查看详情

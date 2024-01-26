@@ -1,10 +1,8 @@
 # 欢迎来到舒适空岛WIKI
 
-Warning:我们遇到了一些技术上的问题，CurseForge无法上传文件，下载请暂时移步到[Modrinth](https://modrinth.com/mod/comfy-sky/)
-
 Note:舒适空岛wiki是一个静态网页，如果遇到问题请在[舒适空岛的Github页面](https://github.com/wzsjc2020/Minecraft-Comfy-Sky-Mod)报告。
 
-当前WIKI版本 14     基于舒适空岛v17.1.13    最近更新时间：2024年1月23日
+当前WIKI版本 15     基于舒适空岛v17.1.13    最近更新时间：[2024年1月26日](common/news/root.md)
 
 ​     
 

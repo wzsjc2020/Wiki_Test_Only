@@ -10,6 +10,8 @@
 
 [更新日志](common/updates/root.md)
 
+[动态消息](common/news/root.md)
+
 [项目贡献](common/credits/root.md)
 
 

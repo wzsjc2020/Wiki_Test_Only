@@ -56,7 +56,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td> <td>加入了花肥桶1号碎片</td> </tr> <tr> <td>加入了花肥桶2号碎片</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td> <td>加入了花肥桶1号碎片</td> </tr> <tr> <td>加入了花肥桶2号碎片</td> </tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> <td>修改了花肥桶2号碎片的物品贴图</td> </tr> </table>
 
 ​     
 

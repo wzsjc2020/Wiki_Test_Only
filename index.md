@@ -2,7 +2,7 @@
 
 Note:舒适空岛wiki是一个静态网页，如果遇到问题请在[舒适空岛的Github页面](https://github.com/wzsjc2020/Minecraft-Comfy-Sky-Mod)报告。
 
-当前WIKI版本 15     基于舒适空岛v17.1.13    最近更新时间：[2024年1月26日](common/news/root.md)
+当前WIKI版本 16    基于舒适空岛v17.1.14    最近更新时间：[2024年5月17日](common/news/root.md)
 
 ​     
 

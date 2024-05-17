@@ -137,6 +137,17 @@ Note:制作模组所使用的所有美术素材
 
 ​     
 
+## 印花地毯
+
+| @作者 | Ommina_                                                      |
+| ----- | ------------------------------------------------------------ |
+| @时间 | 2024                                                         |
+| @证书 | [MIT License](https://www.curseforge.com/minecraft/mc-mods/wallpapercraft-a-fresh-roll/files#license) |
+| @链接 | [Wallpapercraft - A Fresh Roll - Minecraft Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/wallpapercraft-a-fresh-roll) |
+| @描述 | 使用了wallpaper craft 中stripedgreen-6,pink_wallpaper_block,fancytilescyan-2的材质 |
+
+​     
+
 
 
 

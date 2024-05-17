@@ -884,7 +884,7 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td>
+    <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td>
         <td width=120;>17.1.9</td>     
         <td>加入了流浪商人追踪器</td> 
     </tr> 
@@ -906,7 +906,12 @@
         <td width=120;>17.1.12</td>     
         <td>再次修改了流浪商人追踪器的物品贴图</td> 
     </tr> 
+    <tr>
+        <td width=120;>17.1.14</td>     
+        <td>流浪商人追踪器算法进行了修改</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -936,7 +941,7 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=2 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td>
         <td width=120;>17.1.11</td>     
         <td>加入了玩家生命体征追踪器</td> 
     </tr> 
@@ -944,7 +949,12 @@
         <td>17.1.12</td>     
         <td>现在玩家生命体征追踪器物品文本提示在绑定玩家未在线或不在同一维度时，不再显示警告模式</td> 
     </tr> 
+    <tr>    
+        <td>17.1.14</td>     
+        <td>玩家生命体征追踪器在生存模式被禁止合成</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -1024,7 +1034,7 @@
       	<th align=center colspan=3>Java版</th>
     </tr>  
     <tr>    
-        <td align=center rowspan=4 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
         <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.12</td>   
         <td>加入了粉色定向传送门</td> 
     </tr> 
@@ -1038,8 +1048,39 @@
     <tr>        
         <td>加入了黄色定向传送门</td> 
     </tr>
+    <tr>        
+    <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> 
+        <td>修改了定向传送门染色方式，现在可以通过和染料合成来更改定向传送门颜色</td> 
+    </tr> 
 </table>
 
+
+
+## 定向传送门碎片
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=4 width=120; style="vertical-align:middle">17.1.12</td>   
+        <td>加入了青色定向传送门1号碎片</td> 
+    </tr> 
+    <tr>        
+        <td>加入了青色定向传送门2号碎片</td> 
+    </tr>
+    <tr>        
+        <td>加入了青色定向传送门3号碎片</td> 
+    </tr> 
+    <tr>        
+        <td>加入了青色定向传送门4号碎片</td> 
+    </tr>
+    <tr>        
+    <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> 
+        <td>修改了青色定向传送门3号碎片的在组装台上显示的模型</td> 
+    </tr> 
+</table>
 
 
 ## 可疑的补充包
@@ -1076,13 +1117,17 @@
     </tr>  
     <tr>    
         <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td>
-        <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.13</td>     
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td>     
         <td>加入了花肥桶1号碎片</td> 
     </tr> 
     <tr>        
         <td>加入了花肥桶2号碎片</td> 
     </tr> 
+    <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> 
+        <td>修改了花肥桶2号碎片的物品贴图</td> 
+    </tr> 
 </table>
+
 
 
 
@@ -1124,6 +1169,30 @@
         <td>修复了玩家在创造模式飞行时使用骨梯被意外的添加附加速度的BUG</td> 
     </tr> 
 </table>
+
+
+等距火把眼镜
+
+<table border=1 style="width:100% ;height:100%">
+  	<tr> 
+      	<th align=center colspan=3>Java版</th>
+    </tr>  
+    <tr>    
+        <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td>
+        <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td>
+        <td>加入了等距火把眼镜</td> 
+    </tr> 
+    <tr>    
+        <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.14</td>
+        <td>现在等距火把眼镜判定火把位置更加精确了</td> 
+    </tr> 
+    <tr>      
+        <td>修改了等距火把眼镜物品贴图以及模型</td> 
+    </tr> 
+</table>
+
+
+
 
 
 

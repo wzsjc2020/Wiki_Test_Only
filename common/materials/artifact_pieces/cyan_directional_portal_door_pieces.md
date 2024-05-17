@@ -84,7 +84,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了青色定向传送门1号碎片</td> </tr> <tr> <td>加入了青色定向传送门2号碎片</td> </tr> <tr> <td>加入了青色定向传送门3号碎片</td> </tr> <tr> <td>加入了青色定向传送门4号碎片</td> </tr></table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=4 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了青色定向传送门1号碎片</td> </tr> <tr> <td>加入了青色定向传送门2号碎片</td> </tr> <tr> <td>加入了青色定向传送门3号碎片</td> </tr> <tr> <td>加入了青色定向传送门4号碎片</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> <td>修改了青色定向传送门3号碎片的在组装台上显示的模型</td> </tr> </table>
 
 ​     
 

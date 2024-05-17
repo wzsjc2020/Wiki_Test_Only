@@ -10,9 +10,10 @@
     </tr> 
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物</td>
-        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> <img src=resources/icon/flower_composter-32px.png> <a href="common/functional_blocks/artifacts/flower_composter.md">花肥桶</a> </td> 
+        <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> <img src=resources/icon/flower_composter-32px.png> <a href="common/functional_blocks/artifacts/flower_composter.md">花肥桶</a> <img src=resources/image/printed_carpet.gif> <a href="common/functional_blocks/artifacts/printed_carpets.md">印花地毯</a> </td> 
     </tr> 
 </table>
+
 
 
 
@@ -29,7 +30,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=4 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">工具</td>
-        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/utilities/player_vital_signs_tracker.md">玩家生命体征追踪器</a> <img src=resources/icon/isometric_torch_spectacles-32px.png> <a href="common/utilities/isometric_torch_spectacles.md">等距火把眼镜</a> </td> 
+        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/isometric_torch_spectacles-32px.png> <a href="common/utilities/isometric_torch_spectacles.md">等距火把眼镜</a> </td> 
     </tr>
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">挖掘铲</td>
@@ -44,6 +45,7 @@
      <td align=left><img src=resources/icon/debug_copper_stick-32px.png> <a href="common/utilities/debug_copper_stick.md">铜调试棒</a> <img src=resources/icon/seed_of_the_world-32px.png> <a href="common/utilities/seed_of_the_world.md">世界之种</a> <img src=resources/icon/night_vision_goggles-32px.png> <a href="common/utilities/night_vision_goggles.md">夜视眼镜</a> </td>
 	</tr> 
 </table>
+
 
 
 
@@ -115,9 +117,10 @@
 	</tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物碎片</td>
-     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a> <img src=resources/image/cyan_directional_portal_door_piece.gif> <a href="common/materials/artifact_pieces/cyan_directional_portal_door_pieces.md">青色定向传送门碎片</a> <img src=resources/image/flower_composter_piece.gif> <a href="common/materials/artifact_pieces/flower_composter_pieces.md">花肥桶碎片</a>
+     <td align=left><img src=resources/image/mechanical_placer_piece.gif> <a href="common/materials/artifact_pieces/mechanical_placer_pieces.md">机械放置器碎片</a> <img src=resources/image/sniffer_egg_piece.gif> <a href="common/materials/artifact_pieces/sniffer_egg_pieces.md">嗅探兽的蛋碎片</a> <img src=resources/image/celadon_vase_piece.gif> <a href="common/materials/artifact_pieces/celadon_vase_pieces.md">青瓷瓶碎片</a> <img src=resources/image/traditional_chinese_chime_bell_piece.gif> <a href="common/materials/artifact_pieces/traditional_chinese_chime_bell_pieces.md">古代中国编钟碎片</a> <img src=resources/image/cyan_directional_portal_door_piece.gif> <a href="common/materials/artifact_pieces/cyan_directional_portal_door_pieces.md">青色定向传送门碎片</a> <img src=resources/image/flower_composter_piece.gif> <a href="common/materials/artifact_pieces/flower_composter_pieces.md">花肥桶碎片</a> <img src=resources/image/yellow_printed_carpet_piece.gif> <a href="common/materials/artifact_pieces/yellow_printed_carpet_pieces.md">黄色印花地毯碎片</a>
 	</tr>
 </table>
+
 
 
 
@@ -139,9 +142,10 @@
     <tr>    
         <td align=center rowspan=1 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">隐藏物品</td>
         <td align=center width=120; style="vertical-align:middle;background-color: #864796;color:white;">仅创造</td> 
-        <td align=left><img src=resources/icon/golden_disc-32px.png> <a href="common/hiden/golden_disc.md">金唱片</a> </td>
+        <td align=left><img src=resources/icon/golden_disc-32px.png> <a href="common/hiden/golden_disc.md">金唱片</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/hiden/player_vital_signs_tracker.md">玩家生命体征追踪器</a> </td>
 	</tr> 
 </table>
+
 
 
 

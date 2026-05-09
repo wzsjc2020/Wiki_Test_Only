@@ -84,6 +84,16 @@
 
 ## 交互
 
+### 附魔（1.20.1-17.1.15+）
+
+半砖搬运器具有一个特有附魔选项
+
+1.范围缩小（comfysky:reduce_range）最高等级4
+
+​		每增加一级减少挖掘铲的作用范围，最低作用范围为1X1
+
+​     
+
 ### 半砖搬运器作用范围
 
 | 半砖搬运器       | 作用范围 |
@@ -107,7 +117,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.2</td> <td>加入了求生者半砖搬运器</td> </tr> <tr> <td>加入了水元素半砖搬运器</td> </tr> <tr> <td>加入了工程师半砖搬运器</td> </tr> <tr> <td>加入了皇家半砖搬运器</td> </tr> <tr> <td>加入了大师半砖搬运器</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.2</td> <td>加入了求生者半砖搬运器</td> </tr> <tr> <td>加入了水元素半砖搬运器</td> </tr> <tr> <td>加入了工程师半砖搬运器</td> </tr> <tr> <td>加入了皇家半砖搬运器</td> </tr> <tr> <td>加入了大师半砖搬运器</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.15</td> <td>增加了附魔范围减小</td> </tr> </table>
 
 ​     
 

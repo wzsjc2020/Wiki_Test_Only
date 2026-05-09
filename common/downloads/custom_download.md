@@ -2,7 +2,7 @@
 
 ## 第一步：下载舒适空岛
 
-[Comfy Sky - Mods - CurseForge](https://www.curseforge.com/minecraft/mc-mods/comfy-sky)
+[Comfy Sky - Minecraft Mod -Modrinth](https://modrinth.com/mod/comfy-sky)
 
 ​     
 

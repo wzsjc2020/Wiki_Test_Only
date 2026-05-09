@@ -58,19 +58,25 @@
 
 ## 获取
 
-### 古物碎片合成
+### 古物碎片合成1.20.1-17.1.15+
 
-（仅限）青色定向传送门由组装台使用碎片合成
+定向传送门碎片在组装台合成任意颜色的定向传送门
 
 ​     
 
-### 染色
+### 古物碎片合成1.20.1-17.1.15以下版本
 
-#### 1.20.1-17.1.14及以上版本
+合成青色定向传送门（此特性仅限1.20.1-17.12~1.20.1-17.1.14）
+
+​     
+
+### 染色1.20.1-17.1.14+
 
 使用工作台染色配方合成
 
-#### 1.20.1-17.1.12~1.20.1-17.1.13版本
+​     
+
+### 染色1.20.1-17.1.12~1.20.1-17.1.13版本
 
 定向传送门可由玩家手持对应的颜色染料右键定向传送门更改颜色
 
@@ -211,13 +217,13 @@ Shift+右键一个传送门以解除传送门绑定
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了粉色定向传送门</td> </tr> <tr> <td>加入了青色定向传送门</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td> <td>加入了黄绿色定向传送门</td> </tr> <tr> <td>加入了黄色定向传送门</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> <td>修改了定向传送门染色方式，现在可以通过和染料合成来更改定向传送门颜色</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=6 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了粉色定向传送门</td> </tr> <tr> <td>加入了青色定向传送门</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.13</td> <td>加入了黄绿色定向传送门</td> </tr> <tr> <td>加入了黄色定向传送门</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.14</td> <td>修改了定向传送门染色方式，现在可以通过和染料合成来更改定向传送门颜色</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.15</td> <td>修复了定向传送门传送不会同步玩家的视角的问题</td> </tr> </table>
 
 ​     
 
 ## 你知道吗
 
-1.定向传送门致敬了动漫《哆啦A梦》中的夏威夷专用的任意门
+1.定向传送门致敬了动漫《哆啦A梦》中的任意门
 
 <img src="../../../resources/image/anywhere_door_1.png" style="zoom:15%;" />
 

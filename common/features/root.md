@@ -2,6 +2,8 @@
 
 ## 1.20+
 
+### [用木棍从简易篝火中取出点燃的火把](take_out_burning_torches_from_simple_bonfire.md)
+
 ### [快速传送](quick_teleport.md)
 
 ### [嗅探兽的蛋配方](sniffer_egg_recipe.md)
@@ -20,7 +22,7 @@
 
 ### [~~流浪商人更频繁的成群结队生成~~(已移除)](wandering_trader_spawn.md)
 
-### [用木棍从简易篝火中取出火把](take_out_torches_from_simple_bonfire.md)
+### [~~用木棍从简易篝火中取出火把~~(已移除)](take_out_torches_from_simple_bonfire.md)
 
 
 

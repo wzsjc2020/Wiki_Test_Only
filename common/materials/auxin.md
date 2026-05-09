@@ -14,13 +14,37 @@
 
 ## 获取
 
-使用非精准采集的工具破坏**幽匿催发体**获得1个生长素
+使用**幽匿催发体**和**露水瓶**在酿造台合成（1.20.1-17.1.15+）
+
+<img src="../../resources/image/auxin_recipe.png" style="zoom:30%;" />
+
+​     
+
+使用非精准采集的工具破坏**幽匿催发体**获得1个生长素(1.20.1-17.1.15版本之前)
 
 ​     
 
 ## 用途
 
 转换带有#zoetic_grass_can_spread方块标签的方块为鲜活草地
+
+```json
+{
+  "values": [
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:mycelium",
+    "minecraft:rooted_dirt",
+    "minecraft:moss_block",
+    "minecraft:mud",
+    "minecraft:muddy_mangrove_roots",
+    "comfysky:suspicious_grass_block",
+    "comfysky:suspicious_mud"
+  ]
+}
+```
 
 ​     
 
@@ -36,13 +60,13 @@
 
 | 常量       | 数据 | 数据类型 |
 | :--------- | ---- | -------- |
-| @MAX_COUNT | 16   | int      |
+| @MAX_COUNT | 1    | int      |
 
 ​     
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.14</td> <td>加入了生长素</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.14</td> <td>加入了生长素</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.20.1</td> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.1.15</td> <td>生长素现在只能通过幽匿催发体（minecraft:sculk_catalyst）酿造配方获得</td> </tr> <tr> <td>现在生长素的最大堆叠数由16更改为1</td> </tr></table>
 
 ​     
 

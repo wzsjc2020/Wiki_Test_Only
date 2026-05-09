@@ -20,17 +20,15 @@
 
 ## 用途
 
-### 17.1.8及之前版本
+### 熔炼
+
+在简易篝火上烧炼获得玻璃碎片（17.1.9+）
+
+
+
+### 合成
 
 9个碎沙合成一个沙子
-
-​     
-
-### 17.1.9+
-
-1.9个碎沙合成一个沙子
-
-2.在简易篝火上烧炼获得玻璃碎片
 
 ​     
 
@@ -44,7 +42,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.12</td> <td>加入了碎沙</td> </tr> <tr> <td align=left rowspan=2 width=120; style="vertical-align:middle">17.0.13</td> <td>现在使用挖掘铲挖掘沙子可以挖掘出碎沙</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.12</td> <td>加入了碎沙</td> </tr> <tr> <td align=left rowspan=1 width=120; style="vertical-align:middle">17.0.13</td> <td>现在使用挖掘铲挖掘沙子可以挖掘出碎沙</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.15</td> <td>更改了碎沙的物品贴图</td> </tr> </table>
 
 ​     
 

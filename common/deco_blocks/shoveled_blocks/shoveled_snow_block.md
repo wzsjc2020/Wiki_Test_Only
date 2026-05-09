@@ -64,7 +64,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.0.15</td> <td>加入了挖掘过的雪块</td> </tr> <tr> <td align=center rowspan=2 width=120 style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120 style="vertical-align:middle">17.1.12</td> <td>现在挖掘过的沙子具有最高为5的湿润度，但是不可作为耕地</td> </tr> <tr> <td>修复了挖掘过的雪块可以被水流冲毁的BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.0.15</td> <td>加入了挖掘过的雪块</td> </tr> <tr> <td align=center rowspan=2 width=120 style="vertical-align:middle">1.20.1</td> <td align=center rowspan=2 width=120 style="vertical-align:middle">17.1.12</td> <td>现在挖掘过的雪块具有最高为5的湿润度，但是不可作为耕地</td> </tr> <tr> <td>修复了挖掘过的雪块可以被水流冲毁的BUG</td> </tr> </table>
 
 ​     
 

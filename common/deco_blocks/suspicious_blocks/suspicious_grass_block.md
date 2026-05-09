@@ -34,28 +34,28 @@
 
 1.使用任意等级的挖掘铲挖掘可疑的草方块有概率获得以下物品
 
-| 物品                                          | 概率  |
-| --------------------------------------------- | ----- |
-| 机械放置器1号碎片                             | 1/32  |
-| 机械放置器2号碎片                             | 1/32  |
-| 机械放置器3号碎片                             | 1/32  |
-| 青瓷瓶1号碎片                                 | 1/32  |
-| 青瓷瓶2号碎片                                 | 1/32  |
-| 青瓷瓶3号碎片                                 | 1/32  |
-| 古代中国编钟1号碎片                           | 1/32  |
-| 古代中国编钟2号碎片                           | 1/32  |
-| 古代中国编钟3号碎片                           | 1/32  |
-| 蓝宝石色/玫瑰粉色/祖母绿色/琥珀色古罗马玻璃盘 | 1/32  |
-| 氧化《非暴力》                                | 1/32  |
-| 青色定向传送门1号碎片                         | 1/32  |
-| 青色定向传送门2号碎片                         | 1/32  |
-| 青色定向传送门3号碎片                         | 1/32  |
-| 青色定向传送门4号碎片                         | 1/32  |
-| 花肥桶1号碎片                                 | 1/32  |
-| 花肥桶2号碎片                                 | 1/32  |
-| 黄色印花地毯1号碎片                           | 1/32  |
-| 黄色印花地毯2号碎片                           | 1/32  |
-| 可疑的草方块补充包                            | 13/32 |
+战利品表适用于**舒适空岛版本:17.1.15**
+
+| 物品                                                         | 概率  |
+| ------------------------------------------------------------ | ----- |
+| 机械放置器1号碎片![](../../../resources/icon/mechanical_placer_piece_1-32px.png) | 1/32  |
+| 机械放置器2号碎片![](../../../resources/icon/mechanical_placer_piece_2-32px.png) | 1/32  |
+| 机械放置器3号碎片![](../../../resources/icon/mechanical_placer_piece_3-32px.png) | 1/32  |
+| 青瓷瓶1号碎片![](../../../resources/icon/celadon_vase_piece_1-32px.png) | 1/32  |
+| 青瓷瓶2号碎片![](../../../resources/icon/celadon_vase_piece_2-32px.png) | 1/32  |
+| 青瓷瓶3号碎片![](../../../resources/icon/celadon_vase_piece_3-32px.png) | 1/32  |
+| 古代中国编钟1号碎片![](../../../resources/icon/traditional_chinese_chime_bell_piece_1-32px.png) | 1/32  |
+| 古代中国编钟2号碎片![](../../../resources/icon/traditional_chinese_chime_bell_piece_2-32px.png) | 1/32  |
+| 古代中国编钟3号碎片![](../../../resources/icon/traditional_chinese_chime_bell_piece_3-32px.png) | 1/32  |
+| 破损的古罗马玻璃盘1号碎片![](../../../resources/icon/ancient_roman_glass_plate_piece_1-32px.png) | 1/32  |
+| 定向传送门1号碎片![](../../../resources/icon/directional_portal_door_piece_1-32px.png) | 1/32  |
+| 定向传送门2号碎片![](../../../resources/icon/directional_portal_door_piece_2-32px.png) | 1/32  |
+| 定向传送门3号碎片![](../../../resources/icon/directional_portal_door_piece_3-32px.png) | 1/32  |
+| 定向传送门4号碎片![](../../../resources/icon/directional_portal_door_piece_4-32px.png) | 1/32  |
+| 花肥桶1号碎片![](../../../resources/icon/flower_composter_piece_1-32px.png) | 1/32  |
+| 花肥桶2号碎片![](../../../resources/icon/flower_composter_piece_2-32px.png) | 1/32  |
+| 印花地毯1号碎片![](../../../resources/icon/printed_carpet_piece_1-32px.png) | 1/32  |
+| 可疑的草方块补充包![](../../../resources/icon/suspicious_grass_block_booster_pack-32px.png) | 15/32 |
 
 ​     
 

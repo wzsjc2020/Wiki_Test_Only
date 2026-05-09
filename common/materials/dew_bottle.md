@@ -20,7 +20,9 @@
 
 ## 用途
 
-采集露水
+1.采集露水
+
+2.酿造生长素（1.20.1-17.1.15+）
 
 ​     
 
@@ -28,7 +30,9 @@
 
 1.手持玻璃瓶(空)右键露水花采集露水
 
-2.手持耐久度为50的露水瓶右键炼药锅，返还空瓶，并增加炼药锅1/3的水
+2.手持耐久度为125的露水瓶右键炼药锅，返还空瓶，并增加炼药锅1/3的水
+
+3.可以放置在酿造台中
 
 ​     
 
@@ -37,14 +41,14 @@
 | 常量         | 数据 | 数据类型 |
 | :----------- | ---- | -------- |
 | @MAX_COUNT   | 1    | int      |
-| @durability  | 50   | int      |
+| @durability  | 125  | int      |
 | @unbreakable | true | boolean  |
 
 ​     
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.3</td> <td>加入了露水瓶</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=8>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.3</td> <td>加入了露水瓶</td> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.15</td> <td>露水瓶收集露水量由50提高到125</td> </tr> <tr> <td>露水瓶现在可以直接在合成栏中还原回空瓶</td> </tr> <tr> <td>露水瓶现在可以使用露水瓶在炼药台酿造生长素</td> </tr>  </table>
 
 ​     
 

@@ -74,7 +74,7 @@
 
 ### 装饰方块
 
-<img src="../../../resources/screenshot/printed_Carpet.png" style="zoom:25%;" />
+<img src="../../../resources/screenshot/printed_carpet.png" style="zoom:25%;" />
 
 允许玩家坐下
 

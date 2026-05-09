@@ -56,9 +56,107 @@
 
 ​     
 
+## 绿松石色古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/turquoise_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器              |
+| :--------------- | :------------------------------------------- |
+| 稀有度           | 罕见                                         |
+| 命名空间         | comfysky:turquoise_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                      |
+
+​      
+
+## 茄紫色古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/aubergine_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器              |
+| :--------------- | :------------------------------------------- |
+| 稀有度           | 罕见                                         |
+| 命名空间         | comfysky:aubergine_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                      |
+
+​      
+
+## 浅绿色古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/pale_green_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器               |
+| :--------------- | :-------------------------------------------- |
+| 稀有度           | 罕见                                          |
+| 命名空间         | comfysky:pale_green_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                       |
+
+​      
+
+## 浅白色古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/pale_translucent_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器                     |
+| :--------------- | :-------------------------------------------------- |
+| 稀有度           | 罕见                                                |
+| 命名空间         | comfysky:pale_translucent_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                             |
+
+​      
+
+## 浅蓝色古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/pale_azure_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器               |
+| :--------------- | :-------------------------------------------- |
+| 稀有度           | 罕见                                          |
+| 命名空间         | comfysky:pale_azure_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                       |
+
+​       
+
+## 透明古罗马玻璃盘
+
+<div align=center><img src=../../../resources/icon/colorless_ancient_roman_glass_plate-128px.png></div>
+
+​     
+
+| 添加此物品的原因 | Minecraft没有可以展示食物的容器              |
+| :--------------- | :------------------------------------------- |
+| 稀有度           | 罕见                                         |
+| 命名空间         | comfysky:colorless_ancient_roman_glass_plate |
+| 添加版本         | 17.1.15                                      |
+
+​       
+
 ## 获取
 
-1.使用任意等级的挖掘铲挖掘可疑的草方块有概率获取破损的古罗马盘子，详细查看**可疑的草方块-交互**
+### 修复台（1.20.1-17.1.15+）
+
+1.使用任意等级的挖掘铲挖掘可疑的草方块有概率获取破损的古罗马盘子碎片1号
+
+详细查看**可疑的草方块-交互**
+
+2.组装台使用破损的古罗马盘子碎片1号修复获取任意颜色的古罗马玻璃盘
+
+3.组装台使用破损的古罗马盘子修复
+
+
+
+### 修复台（1.20.1-17.1.15之前版本）
+
+1.使用任意等级的挖掘铲挖掘可疑的草方块有概率获取破损的古罗马盘子
 
 2.组装台使用破损的古罗马盘子修复
 
@@ -104,13 +202,13 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=5 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=5 width=120; style="vertical-align:middle">17.1.9</td> <td>加入了蓝宝石色古罗马玻璃盘</td> </tr> <tr> <td>加入了玫瑰粉色古罗马玻璃盘</td> </tr> <tr> <td>加入了祖母绿色古罗马玻璃盘</td> </tr> <tr> <td>加入了琥珀色古罗马玻璃盘</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.19.4</td> <td align=center rowspan=4 width=120; style="vertical-align:middle">17.1.9</td> <td>加入了蓝宝石色古罗马玻璃盘</td> </tr> <tr> <td>加入了玫瑰粉色古罗马玻璃盘</td> </tr> <tr> <td>加入了祖母绿色古罗马玻璃盘</td> </tr> <tr> <td>加入了琥珀色古罗马玻璃盘</td> </tr> <tr> <td align=center rowspan=6 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=6 width=120; style="vertical-align:middle">17.1.15</td> <td>加入了绿松石色古罗马玻璃盘</td> </tr> <tr> <td>加入了茄紫色古罗马玻璃盘</td> </tr> <tr> <td>加入了浅绿色古罗马玻璃盘</td> </tr> <tr> <td>加入了浅白色古罗马玻璃盘</td> </tr> <tr> <td>加入了浅蓝色古罗马玻璃盘</td> </tr> <tr> <td>加入了透明古罗马玻璃盘</td> </tr></table>
 
 ​     
 
 ## 你知道吗
 
-1.使用创造模式指令获取的古罗马玻璃盘不带有NBT不能进行修复或者放置
+1.使用创造模式指令获取的古罗马玻璃盘不带有{Broken:true}NBT不能进行修复或者放置
 
 ​     
 

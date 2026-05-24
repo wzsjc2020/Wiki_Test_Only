@@ -57,7 +57,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了骨梯</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.13</td> <td>修复了玩家在创造模式飞行时使用骨梯被意外的添加附加速度的BUG</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了骨梯</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.13</td> <td>修复了玩家在创造模式飞行时使用骨梯被意外的添加附加速度的BUG</td> </tr> <td width=120;>17.1.16</td> <td>修复了骨梯在玩家按下空格时无法触发额外攀爬速度的BUG</td> </tr> </table>
 
 ​     
 

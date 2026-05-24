@@ -132,10 +132,12 @@
 
 ### 可挖掘方块
 
+版本：1.20.1-17.1.16+
+
 | 可挖掘方块                      | 掉落物                                                       | 挖掘后方块                                                 |
 | ------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
 | 雪块（minecraft:snow_block）    | 5%![](../../../resources/icon/crushed_stone-32px.png)20%![](../../../resources/icon/snowball-32px.png)1.56%杀手兔 | ![](../../../resources/icon/shoveled_snow_block-32px.png)  |
-| 泥巴（minecraft:mud）           | 5%![](../../../resources/icon/clay_ball-32px.png)5%![](../../../resources/icon/stick-32px.png) | ![](../../../resources/icon/shoveled_mud-32px.png)         |
+| 泥巴（minecraft:mud）           | 5%![](../../../resources/icon/clay_ball-32px.png)5%![](../../../resources/icon/stick-32px.png)5%![](../../../resources/icon/crushed_coal-32px.png) | ![](../../../resources/icon/shoveled_mud-32px.png)         |
 | 沙子（minecraft:sand）          | 5%![](../../../resources/icon/crushed_copper_ore-32px.png)5%![](../../../resources/icon/crushed_sand-32px.png) | ![](../../../resources/icon/shoveled_sand-32px.png)        |
 | 红沙（minecraft:red_sand）      | 5%![](../../../resources/icon/crushed_copper_ore-32px.png)5%![](../../../resources/icon/crushed_sand-32px.png) | ![](../../../resources/icon/shoveled_red_sand-32px.png)    |
 | 草方块（minecraft:grass_block） | 5%![](../../../resources/icon/crushed_iron_ore-32px.png)5%![](../../../resources/icon/crushed_stone-32px.png)5%![](../../../resources/icon/crushed_coal-32px.png) | ![](../../../resources/icon/shoveled_grass_block-32px.png) |

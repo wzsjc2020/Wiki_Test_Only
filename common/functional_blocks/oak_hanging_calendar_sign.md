@@ -32,6 +32,8 @@
 
 3.悬挂在方块的下方
 
+<img src="../../resources/screenshot/hanging_calendar_sign.png" style="zoom:50%;" />
+
 ​     
 
 ## 数值表
@@ -45,7 +47,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.12</td> <td>加入了挂历(comfysky:wall_calendar_sign)</td> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td> <td align=left rowspan=3 width=120; style="vertical-align:middle">17.1.15</td> <td>移除了挂历</td> </tr> <tr> <td>加入了橡木挂历</td> </tr> <tr> <td>橡木挂历可以挂在方块下方</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.19.2</td> <td width=120;>17.0.12</td> <td>加入了挂历(comfysky:wall_calendar_sign)</td> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.20.1</td> <td align=left rowspan=3 width=120; style="vertical-align:middle">17.1.15</td> <td>移除了挂历</td> </tr> <tr> <td>加入了橡木挂历</td> </tr> <tr> <td>橡木挂历可以挂在方块下方</td> </tr> <tr> <td width=120;>17.1.16</td> <td>修复了橡木挂历放置音效和模型不匹配的问题</td> </tr> </table>
 
 ​     
 

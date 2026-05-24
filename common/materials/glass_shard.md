@@ -4,11 +4,11 @@
 
 ​     
 
-| 添加此物品的原因 | 合成玻璃板，制作流浪商人追踪器 |
-| :--------------- | :----------------------------- |
-| 稀有度           | 常见                           |
-| 命名空间         | comfysky:glass_shard           |
-| 添加版本         | 17.1.9                         |
+| 添加此物品的原因 | 合成玻璃透镜         |
+| :--------------- | :------------------- |
+| 稀有度           | 常见                 |
+| 命名空间         | comfysky:glass_shard |
+| 添加版本         | 17.1.9               |
 
 ​     
 
@@ -20,7 +20,11 @@
 
 ## 用途
 
-合成玻璃板
+### 合成
+
+合成玻璃透镜（comfysky:glass_lens）[1.20.1-17.1.16+]
+
+合成玻璃板（minecraft:glass_pane）[1.20.1-17.1.16版本之前]
 
 ​     
 
@@ -34,7 +38,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了玻璃碎片</td> </tr> <tr> <td>17.1.10</td> <td>修改了玻璃碎片的物品贴图</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">1.19.4</td> <td width=120;>17.1.9</td> <td>加入了玻璃碎片</td> </tr> <tr> <td>17.1.10</td> <td>修改了玻璃碎片的物品贴图</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">1.20.1</td> <td width=120;>17.1.16</td> <td>现在玻璃碎片不再合成玻璃板，修改为合成玻璃透镜</td> </tr> </table>
 
 ​     
 

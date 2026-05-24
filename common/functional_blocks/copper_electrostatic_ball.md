@@ -8,7 +8,7 @@
 | :--------------- | :----------------------------------------------------------- |
 | 稀有度           | 常见                                                         |
 | 命名空间         | comfysky:copper_electrostatic_ball |
-| 添加版本         | 17.0.8                                                       |
+| 添加版本         | 17.1.15                                                   |
 
 ​     
 
@@ -61,9 +61,9 @@
 | 200-正无穷    | -(350/x)+51.75          |
 
 计算过程： 
-$$
-MAX=\frac{10000}{每200ticks静电量} \times 200ticks \times \frac{1second}{20ticks}\times \frac{1minute}{60second}
-$$
+
+<img src="../../resources/image/calculate_electrostatic_amount.png" style="zoom: 67%;" />
+
 常用参考数值：
 
 | 实体数量(x) | 到达MAX所需时间（Minutes） |

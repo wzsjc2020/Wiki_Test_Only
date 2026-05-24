@@ -6,12 +6,13 @@
     </tr>  
     <tr>    
         <td align=center rowspan=2 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">功能性方块</td>
-        <td align=left colspan=2><img src=resources/icon/oak_hanging_calendar_sign-32px.png> <a href="common/functional_blocks/oak_hanging_calendar_sign.md">橡木挂历</a> <img src=resources/image/driftwood.gif> <a href="common/functional_blocks/driftwood.md">浮木/浮竹</a> <img src=resources/icon/fish_trap-32px.png> <a href="common/functional_blocks/fish_trap.md">捕鱼陷阱</a> <img src=resources/icon/copper_electrostatic_ball-32px.png> <a href="common/functional_blocks/copper_electrostatic_ball.md">铜静电球</a> <img src=resources/icon/cardboard_box-32px.png> <a href="common/functional_blocks/cardboard_box.md">瓦楞纸箱</a> <img src=resources/icon/packed_cardboard_box-32px.png> <a href="common/functional_blocks/packed_cardboard_box.md">打包过的瓦楞纸箱</a> <img src=resources/icon/burning_torch-32px.png> <a href="common/functional_blocks/burning_torch.md">点燃的火把</a> <img src=resources/icon/assembly_station-32px.png> <a href="common/functional_blocks/assembly_station.md">组装台</a> <img src=resources/icon/simple_bonfire-32px.png> <a href="common/functional_blocks/simple_bonfire.md">简易篝火</a> <img src=resources/icon/bone_ladder-32px.png> <a href="common/functional_blocks/bone_ladder.md">骨梯</a> <img src=resources/icon/wither_bone_ladder-32px.png> <a href="common/functional_blocks/wither_bone_ladder.md">凋零骨梯</a> <img src=resources/icon/wood_weather_vane-32px.png> <a href="common/functional_blocks/wood_weather_vane.md">木风向标</a> </td>
+        <td align=left colspan=2><img src=resources/icon/oak_hanging_calendar_sign-32px.png> <a href="common/functional_blocks/oak_hanging_calendar_sign.md">橡木挂历</a> <img src=resources/image/driftwood.gif> <a href="common/functional_blocks/driftwood.md">浮木/浮竹</a> <img src=resources/icon/fish_trap-32px.png> <a href="common/functional_blocks/fish_trap.md">捕鱼陷阱</a> <img src=resources/icon/copper_electrostatic_ball-32px.png> <a href="common/functional_blocks/copper_electrostatic_ball.md">铜静电球</a> <img src=resources/icon/cardboard_box-32px.png> <a href="common/functional_blocks/cardboard_box.md">瓦楞纸箱</a> <img src=resources/icon/packed_cardboard_box-32px.png> <a href="common/functional_blocks/packed_cardboard_box.md">打包过的瓦楞纸箱</a> <img src=resources/icon/burning_torch-32px.png> <a href="common/functional_blocks/burning_torch.md">点燃的火把</a> <img src=resources/icon/assembly_station-32px.png> <a href="common/functional_blocks/assembly_station.md">组装台</a> <img src=resources/icon/simple_bonfire-32px.png> <a href="common/functional_blocks/simple_bonfire.md">简易篝火</a> <img src=resources/icon/bone_ladder-32px.png> <a href="common/functional_blocks/bone_ladder.md">骨梯</a> <img src=resources/icon/wither_bone_ladder-32px.png> <a href="common/functional_blocks/wither_bone_ladder.md">凋零骨梯</a> <img src=resources/icon/hay_bed-32px.png> <a href="common/functional_blocks/hay_bed.md">干草床</a> </td>
     </tr> 
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">古物</td>
         <td colspan=2><img src=resources/icon/mechanical_placer-32px.png> <a href="common/functional_blocks/artifacts/mechanical_placer.md">机械放置器</a> <img src=resources/icon/celadon_vase-32px.png> <a href="common/functional_blocks/artifacts/celadon_vase.md">青瓷瓶</a> <img src=resources/icon/traditional_chinese_chime_bell-32px.png> <a href="common/functional_blocks/artifacts/traditional_chinese_chime_bell.md">古代中国编钟</a> <img src=resources/image/ancient_roman_glass_plate.gif> <a href="common/functional_blocks/artifacts/ancient_roman_glass_plates.md">古罗马玻璃盘</a> <img src=resources/icon/non_violence-32px.png> <a href="common/functional_blocks/artifacts/non_violence.md">《非暴力》系列方块</a> <img src=resources/image/directional_portal_door.gif> <a href="common/functional_blocks/artifacts/directional_portal_doors.md">定向传送门</a> <img src=resources/icon/flower_composter-32px.png> <a href="common/functional_blocks/artifacts/flower_composter.md">花肥桶</a> <img src=resources/image/printed_carpet.gif> <a href="common/functional_blocks/artifacts/printed_carpets.md">印花地毯</a> </td> </tr>
 </table>
+
 
 
 
@@ -30,7 +31,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=4 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">工具</td>
-        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/isometric_torch_spectacles-32px.png> <a href="common/utilities/isometric_torch_spectacles.md">等距火把眼镜</a> </td> 
+        <td colspan=2><img src=resources/icon/packing_tape-32px.png> <a href="common/utilities/packing_tape.md">打包带</a> <img src=resources/icon/wandering_trader_tracker-32px.png> <a href="common/utilities/wandering_trader_tracker.md">流浪商人追踪器</a> <img src=resources/icon/isometric_torch_spectacles-32px.png> <a href="common/utilities/isometric_torch_spectacles.md">等距火把眼镜</a> <img src=resources/icon/weather_meter-32px.png> <a href="common/utilities/weather_meter.md">晴雨表</a> </td> 
     </tr>
     <tr>    
         <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">挖掘铲</td>
@@ -45,6 +46,7 @@
      <td align=left><img src=resources/icon/debug_copper_stick-32px.png> <a href="common/utilities/debug_copper_stick.md">铜调试棒</a> <img src=resources/icon/seed_of_the_world-32px.png> <a href="common/utilities/seed_of_the_world.md">世界之种</a> <img src=resources/icon/night_vision_goggles-32px.png> <a href="common/utilities/night_vision_goggles.md">夜视眼镜</a> </td>
 	</tr> 
 </table>
+
 
 
 
@@ -77,7 +79,6 @@
 
 
 
-
 <table border=1 style="width:100% ;height:100%">
   	<tr> 
       	<th align=center colspan=4>舒适空岛（Comfy Sky）的 物品/方块 资料</th>
@@ -90,9 +91,10 @@
     </tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">花</td>    
-     <td align=left><img src=resources/icon/dew_flower-32px.png> <a href="common/plants/flowers/dew_flower.md">露水花</a> <img src=resources/icon/cinderbloom-32px.png> <a href="common/plants/flowers/cinderbloom.md">火焰花</a> <img src=resources/icon/zoetic_flower-32px.png> <a href="common/plants/flowers/zoetic_flower.md">生命花</a> </td>
+     <td align=left><img src=resources/icon/dew_flower-32px.png> <a href="common/plants/flowers/dew_flower.md">露水花</a> <img src=resources/icon/cinderbloom-32px.png> <a href="common/plants/flowers/cinderbloom.md">火焰花</a> <img src=resources/icon/zoetic_flower-32px.png> <a href="common/plants/flowers/zoetic_flower.md">生命花</a> <img src=resources/icon/linked_flower-32px.png> <a href="common/plants/flowers/linked_flower.md">链表花</a> </td>
 	</tr> 
 </table>
+
 
 
 <table border=1 style="width:100% ;height:100%;">
@@ -101,7 +103,7 @@
     </tr>  
     <tr>    
         <td align=center rowspan=6 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">材料</td>
-        <td colspan=5><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/pile_of_crushed_coals-32px.png> <a href="common/materials/pile_of_crushed_coals.md">碎煤堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> <img src=resources/icon/flower_fertilizer-32px.png> <a href="common/materials/flower_fertilizer.md">花肥</a>  <img src=resources/icon/extinguished_torch-32px.png> <a href="common/materials/extinguished_torch.md">熄灭的火把</a> </td> 
+        <td colspan=5><img src=resources/icon/dew_bottle-32px.png> <a href="common/materials/dew_bottle.md">露水瓶</a> <img src=resources/icon/auxin-32px.png> <a href="common/materials/auxin.md">生长素</a> <img src=resources/icon/pile_of_crushed_stones-32px.png> <a href="common/materials/pile_of_crushed_stones.md">碎石堆</a> <img src=resources/icon/pile_of_crushed_coals-32px.png> <a href="common/materials/pile_of_crushed_coals.md">碎煤堆</a> <img src=resources/icon/copper_nugget-32px.png> <a href="common/materials/copper_nugget.md">铜粒</a> <img src=resources/icon/glass_shard-32px.png> <a href="common/materials/glass_shard.md">玻璃碎片</a> <img src=resources/icon/glass_lens-32px.png> <a href="common/materials/glass_lens.md">玻璃透镜</a> <img src=resources/icon/flower_fertilizer-32px.png> <a href="common/materials/flower_fertilizer.md">花肥</a>  <img src=resources/icon/extinguished_torch-32px.png> <a href="common/materials/extinguished_torch.md">熄灭的火把</a> </td> 
     </tr> 
     <tr>       
      <td align=center width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">附魔书</td>
@@ -147,9 +149,11 @@
     <tr>    
         <td align=center rowspan=1 width=120; style="vertical-align:middle;background-color: #0E7486;color:white;">隐藏物品</td>
         <td align=center width=120; style="vertical-align:middle;background-color: #864796;color:white;">仅创造</td> 
-        <td align=left><img src=resources/icon/golden_disc-32px.png> <a href="common/hiden/golden_disc.md">金唱片</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/hiden/player_vital_signs_tracker.md">玩家生命体征追踪器（已移除）</a> <img src=resources/icon/non_violence-32px.png> <a href="common/hiden/non_violence.md">《非暴力》系列方块</a> <img src=resources/icon/packed_barrel-32px.png> <a href="common/hiden/packed_barrel.md">打包过的木桶</a> 
+        <td align=left><img src=resources/icon/golden_disc-32px.png> <a href="common/hiden/golden_disc.md">金唱片</a> <img src=resources/icon/player_vital_signs_tracker-32px.png> <a href="common/hiden/player_vital_signs_tracker.md"><del>玩家生命体征追踪器</del>（已移除）</a> <img src=resources/icon/non_violence-32px.png> <a href="common/hiden/non_violence.md">《非暴力》系列方块</a> <img src=resources/icon/packed_barrel-32px.png> <a href="common/hiden/packed_barrel.md">打包过的木桶</a> <img src=resources/icon/wood_weather_vane-32px.png> <a href="common/hiden/wood_weather_vane.md"><del>木风向标</del>（已移除）</a>
 	</tr> 
 </table>
+
+
 
 
 

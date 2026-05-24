@@ -52,7 +52,7 @@
 
 ## 历史
 
-<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=3 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了等距火把眼镜</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.14</td> <td>现在等距火把眼镜判定火把位置更加精确了</td> </tr> <tr> <td>修改了等距火把眼镜物品贴图以及模型</td> </tr> </table>
+<table border=1 style="width:100% ;height:100%"> <tr> <th align=center colspan=3>Java版</th> </tr> <tr> <td align=center rowspan=4 width=120; style="vertical-align:middle">1.20.1</td> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.12</td> <td>加入了等距火把眼镜</td> </tr> <tr> <td align=center rowspan=2 width=120; style="vertical-align:middle">17.1.14</td> <td>现在等距火把眼镜判定火把位置更加精确了</td> </tr> <tr> <td>修改了等距火把眼镜物品贴图以及模型</td> </tr> <tr> <td align=center rowspan=1 width=120; style="vertical-align:middle">17.1.16</td> <td>更改了等距火把眼镜的合成配方</td> </tr> </table>
 
 ​     
 
